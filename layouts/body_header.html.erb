@@ -1,0 +1,22 @@
+<div class="row justify-content-between">
+  <div class="col-8">
+    <h1>
+      <%= citem.title %>
+      <span style="font-size: 1rem">
+        <% if citem.lecture? %>
+          (<%= citem.lecture_date_s %>, <%= citem.lecture_number_s.to_s %>)
+        <% end %>
+      </span>
+    </h1>
+
+  </div>
+  <div class="col pt-4">
+    <% if citem.lecture? && citem.section != "root" %>
+      <% if citem.slides %>
+        <%= link_to_slides %>
+      <% end %>
+      <%= link_to_prev toc, item %> <%=link_to_next toc, item %>
+    <% end %>
+  </div>
+</div>
+<h3><%= citem.desc %></h3>
