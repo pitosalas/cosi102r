@@ -11,6 +11,9 @@ AUTHOR_NAME = 'R. Pito Salas'
 AUTHOR_EMAIL = 'pitosalas@brandeis.edu'
 COPYRIGHT_STRING = "Copyright (2013-#{Time.now.year}) #{AUTHOR_NAME}, #{AUTHOR_EMAIL}"
 
+# Bucket Deployment of the course
+AWS_BUCKET = "cosi102r".freeze
+
 # COURSE
 COURSE_SHORT_NAME = 'Cosi102r'
 COURSE_LONG_NAME = 'Software Entrepreneurship'
@@ -47,7 +50,7 @@ SECTION_CONFIG = [
   SectionDef.new("Lectures", "lectures",
                  type: :lecture, schedule: LECTURES_SCHEDULE_CONFIG, bullet: :dash),
   SectionDef.new("Homework", "homework", hidden: false, type: :section),
-  SectionDef.new("Term Project", "term", type: :section, collapsed: false),
+  # SectionDef.new("Term Project", "term", type: :section, collapsed: false),
   SectionDef.new("Background", "background", type: :section, collapsed: false),
   SectionDef.new("Topics", "topics", hidden: true, type: :section)
 ].freeze
@@ -56,13 +59,13 @@ SECTION_CONFIG = [
 #
 # The URL of the deployed site.
 # Please include any http or https prefix.
-SITE_URL = 'http://cosi102a.s3-website-us-west-2.amazonaws.com/'
+SITE_URL = "http://cosi102r.s3-website-us-east-1.amazonaws.com"
 
 # Home_page sets the home page of the site.
 # This is usually /content/index.md.erb.
 #
 # Note: the .erb suffix is required when setting the HOME_PAGE path.
-HOME_PAGE = "/content/welcome/01_syllabus.md.erb"
+HOME_PAGE = "/content/welcome/10_syllabus.md.erb"
 
 # Menulinks defines the links on the navigation bar.
 # They are formatted as "Name" - "URL" pair.
@@ -70,9 +73,8 @@ HOME_PAGE = "/content/welcome/01_syllabus.md.erb"
 # Examples:
 #   %w[HOME /content/index.md]
 #   %w[TOC /content/course_toc.md]
-MENULINKS = [%w[TOC /content/intro/course_toc.md/],
-             %w[Welcome /content/intro/welcome.md/],
-             %w[Extra /content/extras/extra_content.md/]].freeze
+MENULINKS = [%w[TOC /content/welcome/20_course_toc.md/],
+             %w[Welcome /content/welcome/10_welcome.md/]].freeze
 
 # Helpful_box provides a feedback box on the sidebar.
 #

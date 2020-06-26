@@ -1,0 +1,18 @@
+@import url(//fonts.googleapis.com/css?family=Telex);
+
+.reveal h3, .reveal h2 {
+    color: rgb(64, 56, 207);
+    font-family: telex;
+    text-transform: none;
+    margin-bottom: 20px;
+    font-size: 2.5rem
+}
+
+.reveal li {
+    margin-bottom: 15px;
+    font-size: 2rem
+}
+
+.callout { 
+    display: none;
+}
