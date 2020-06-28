@@ -1,0 +1,22 @@
+---
+title: Course Outline
+---
+
+# Homework Schedule
+
+<% tbh = TableHelper.new(:normal) %>
+<% tbh.headers("Wk", "Topics", "Readings", "Activities", "Homeworks") %>
+<% tbh.row("1","Intros, Policies, The Lean Startup, Teams announced", "LS Ch 1,2,3", "Individual 20 second Video, Social Contract", "Team Intro Video") %>
+<% tbh.row("2","Hypotheses, Validating, Working on Teams, ", "Management Monkey Article, LS Ch 4,5, 9", "Working on Teams excercise, Team Brainstorming", "Three Product Ideas written up") %>
+<% tbh.row("3","MVP", "LS Chapter 6", "", "") %>
+<% tbh.row("4","Measuring Results", "LS Ch 6", "Quiz", "Team Status Reports") %>
+<% tbh.row("5","Pivoting", "LS Ch 8", "Social Contract Check In", "Final Project Stage 1") %>
+<% tbh.row("6","Testing, Mockups, Prototypes", "LS Ch 7", "", "") %>
+<% tbh.row("7","The Engine of Growth", "LS Ch 9", "", "") %>
+<% tbh.row("8","Growth and Growth Hacking", "LS Ch 10", "", "") %>
+<% tbh.row("9","Business Model, Pricing, Canvas", "", "", "") %>
+<% tbh.row("10","Startups, Management, Founding, Leadership", "LS Ch 11, 12", "", "") %>
+<% tbh.row("11","VC, Finance, Spreadsheets", "", "", "Final Project Stage 2") %>
+<% tbh.row("12","Patents, Intellectual Property, Open Source", "", "", "") %>
+<% tbh.row("13","Real World Survival Kit", "LS Ch 13", "", "FInal Project Deliverables") %>
+<%= tbh.render %>
