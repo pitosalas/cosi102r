@@ -17,7 +17,7 @@ AWS_BUCKET = "cosi102r".freeze
 # COURSE
 COURSE_SHORT_NAME = 'Cosi102r'
 COURSE_LONG_NAME = 'Software Entrepreneurship'
-COURSE_ABBREV = 'SC'
+COURSE_ABBREV = 'SE'
 
 # Lectures_schedule defines the schedule of lectures.
 #
@@ -65,7 +65,7 @@ SITE_URL = "http://cosi102r.s3-website-us-east-1.amazonaws.com"
 # This is usually /content/index.md.erb.
 #
 # Note: the .erb suffix is required when setting the HOME_PAGE path.
-HOME_PAGE = "/content/welcome/10_syllabus.md.erb"
+HOME_PAGE = "/content/welcome/10_xxxsyllabus.md.erb"
 
 # Menulinks defines the links on the navigation bar.
 # They are formatted as "Name" - "URL" pair.

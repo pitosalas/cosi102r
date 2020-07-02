@@ -4,7 +4,7 @@
       <%= citem.title %>
       <span style="font-size: 1rem">
         <% if citem.lecture? %>
-          (<%= citem.lecture_date_s %>, <%= citem.lecture_number_s.to_s %>)
+          (<%= citem.lecture_date_s %>, lect <%= citem.lecture_number.to_s %>, wk <%= ((1+citem.lecture_number)/2).to_s %>)
         <% end %>
       </span>
     </h1>
@@ -12,10 +12,10 @@
   </div>
   <div class="col pt-4">
     <% if citem.lecture? && citem.section != "root" %>
-      <% if citem.slides %>
-        <%= link_to_slides %>
-      <% end %>
       <%= link_to_prev toc, item %> <%=link_to_next toc, item %>
+    <% end %>
+    <% if citem.slides %>
+      <%= link_to_slides %>
     <% end %>
   </div>
 </div>

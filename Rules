@@ -56,7 +56,13 @@ end
 
 # Select which .md.erb becomes the home page of the site
 route HOME_PAGE do
+  print "yyyyyyyyyy"
   '/index.html'
+end
+
+route HOME_PAGE, rep: :slides do
+  print "xxxxxxxxxxxxx"
+  '/slides.html'
 end
 
 route '/**/*' do
