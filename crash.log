@@ -1,22 +1,33 @@
-Crashlog created at 2020-07-01 20:58:35 -0400
+Crashlog created at 2020-07-02 09:54:56 -0400
 
 ===== MESSAGE:
 
-Errno::EEXIST: File exists @ syserr_fail2_in - /Users/pitosalas/mydev/cosi102r/output/content/topics/cribsheets/rails_faq.md/slides.html
+SyntaxError: item /content/lectures/stage1/20_welcome.md.erb (rep default):47: syntax error, unexpected ')'
+...(( link_to_section :homework, ).to_s); _erbout.<< "\n".freeze
+...                              ^
+
+===== ITEM BEING COMPILED:
+
+Current item: /content/lectures/stage1/20_welcome.md.erb (:default representation)
 
 ===== STACK TRACE:
 
-  0. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/2.6.0/fileutils.rb:297:in `link'
-  1. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/2.6.0/fileutils.rb:297:in `block in ln'
-  2. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/2.6.0/fileutils.rb:1573:in `fu_each_src_dest0'
-  3. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/2.6.0/fileutils.rb:295:in `ln'
-  4. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/item_rep_writer.rb:66:in `write_single'
-  5. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/item_rep_writer.rb:21:in `block in write'
-  6. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/item_rep_writer.rb:20:in `each'
-  7. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/item_rep_writer.rb:20:in `write'
-  8. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/item_rep_writer.rb:15:in `block in write_all'
-  9. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/item_rep_writer.rb:14:in `each'
-  10. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/item_rep_writer.rb:14:in `write_all'
+  0. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/2.6.0/erb.rb:901:in `eval'
+  1. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/2.6.0/erb.rb:901:in `result'
+  2. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-4.11.13/lib/nanoc/filters/erb.rb:36:in `run'
+  3. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/filter.rb:188:in `setup_and_run'
+  4. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/executor.rb:22:in `filter'
+  5. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/compilation_phases/recalculate.rb:32:in `block in run'
+  6. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/action_sequence.rb:49:in `block in each'
+  7. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/action_sequence.rb:49:in `each'
+  8. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/action_sequence.rb:49:in `each'
+  9. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/compilation_phases/recalculate.rb:29:in `run'
+  10. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/compilation_phases/abstract.rb:23:in `call'
+  11. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/compilation_phases/abstract.rb:25:in `block in call'
+  12. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/compilation_phases/cache.rb:25:in `run'
+  13. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/compilation_phases/abstract.rb:23:in `call'
+  14. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/compilation_phases/abstract.rb:25:in `block in call'
+  15. /Users/pitosalas/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.13/lib/nanoc/core/compilation_phases/resume.rb:14:in `block in run'
 
 ===== VERSION INFORMATION:
 
