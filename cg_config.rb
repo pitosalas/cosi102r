@@ -73,7 +73,7 @@ HOME_PAGE = "/content/intro/10_syllabus.md.erb"
 # Examples:
 #   %w[HOME /content/index.md]
 #   %w[TOC /content/course_toc.md]
-MENULINKS = [%w[TOC /content/intro/20_course_toc.md/]].freeze
+MENULINKS = [%w[TOC /content/intro/20_coursetoc.md/]].freeze
 
 # Helpful_box provides a feedback box on the sidebar.
 #
