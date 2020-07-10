@@ -1,8 +1,9 @@
 ---
-title: Table Of Contents
+title: List of Lectures
 ---
 <%= list_of(source: "lectures",
             rows: ["subsection","page"],
-            cols: [:number, :date, :title, :cat, :desc, :homework],
-            items: @items) %>
+            cols: [:number, :date, :title, :cat, :desc, :hwref],
+            items: @items,
+            headers: {}) %>
             

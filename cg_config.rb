@@ -49,9 +49,9 @@ SECTION_CONFIG = [
   SectionDef.new("Intro", "intro", type: :section, collapsed: false, bullet: :star),
   SectionDef.new("Lectures", "lectures",
                  type: :lecture, schedule: LECTURES_SCHEDULE_CONFIG, bullet: :dash),
-  SectionDef.new("Homework", "homework", hidden: false, type: :section),
+  SectionDef.new("Homework", "homework", hidden: true, type: :section),
   SectionDef.new("Background", "background", type: :section, collapsed: false, bullet: :star),
-  # SectionDef.new("Term Project", "term", type: :section, collapsed: false),
+  SectionDef.new("Term Project", "term", type: :section, collapsed: false),
   SectionDef.new("Topics", "topics", hidden: true, type: :section)
 ].freeze
 
@@ -73,7 +73,8 @@ HOME_PAGE = "/content/intro/10_syllabus.md.erb"
 # Examples:
 #   %w[HOME /content/index.md]
 #   %w[TOC /content/course_toc.md]
-MENULINKS = [%w[TOC /content/intro/20_coursetoc.md/]].freeze
+MENULINKS = [%w[lectures /content/intro/20_coursetoc.md/],
+            %w[homeworks /content/intro/40_weeks.md/]].freeze
 
 # Helpful_box provides a feedback box on the sidebar.
 #
