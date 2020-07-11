@@ -4,7 +4,7 @@
       <%= citem.title %>
       <span style="font-size: 1rem">
         <% if citem.lecture? %>
-          (<%= citem.lecture_date_s %>, lect <%= citem.lecture_number.to_s %>, wk <%= ((1+citem.lecture_number)/2).to_s %>)
+          (<%= citem.lecture_date_s %>, lect <%= citem.lecture_number.to_s %>, wk <%= ((citem.lecture_number)/2).to_s %>)
         <% end %>
       </span>
     </h1>

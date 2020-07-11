@@ -1,38 +1,14 @@
-Crashlog created at 2020-07-11 08:34:56 -0400
+Crashlog created at 2020-07-11 11:08:12 -0400
 
 ===== MESSAGE:
 
-SyntaxError: item /content/topics/leanstartup_book/03_ch3.md.erb (rep default):7: syntax error, unexpected tSTRING_BEG, expecting ')'
-        "Validated Learning: Learning ...
+SyntaxError: item /content/topics/leanstartup_book/00_ch0.md.erb (rep default):19: syntax error, unexpected ';', expecting ')'
+)).to_s); _erbout.<< "\n".freeze
         ^
-item /content/topics/leanstartup_book/03_ch3.md.erb (rep default):7: syntax error, unexpected ',', expecting ')'
-...rt of conclusions (learnings)",
-...                              ^
-item /content/topics/leanstartup_book/03_ch3.md.erb (rep default):8: syntax error, unexpected ',', expecting ')'
-        "IMVU",
-              ^
-item /content/topics/leanstartup_book/03_ch3.md.erb (rep default):16: syntax error, unexpected ',', expecting ')'
-        ),
-         ^
-item /content/topics/leanstartup_book/03_ch3.md.erb (rep default):17: syntax error, unexpected ',', expecting ')'
-... wants what you are building.",
-...                              ^
-item /content/topics/leanstartup_book/03_ch3.md.erb (rep default):20: syntax error, unexpected ',', expecting ')'
-        ),
-         ^
-item /content/topics/leanstartup_book/03_ch3.md.erb (rep default):21: syntax error, unexpected ',', expecting ')'
-...ust what their motivation is!",
-...                              ^
-item /content/topics/leanstartup_book/03_ch3.md.erb (rep default):22: syntax error, unexpected ',', expecting ')'
-...ind the CHEAPEST way to do so",
-...                              ^
-item /content/topics/leanstartup_book/03_ch3.md.erb (rep default):23: syntax error, unexpected ',', expecting ')'
-...o you need to build anything?",
-...                              ^
 
 ===== ITEM BEING COMPILED:
 
-Current item: /content/topics/leanstartup_book/03_ch3.md.erb (:default representation)
+Current item: /content/topics/leanstartup_book/00_ch0.md.erb (:default representation)
 
 ===== STACK TRACE:
 
