@@ -3,7 +3,7 @@ title: Weekly Homework Schedule
 ---
 <%= list_of(source: "homework",
             rows: ["page"],
-            cols: [:order, :lectref, :reading, :homework, :title],
-            headers: {order: "wk", lectref: "Topics", reading: "Readings", homework: "Other Work", title: "link"},
+            cols: [:order, :lectref, :homework, :reading, :title],
+            headers: {order: "wk", lectref: "Topics", homework: "Major work", reading: "Reading", title: "link"},
             items: @items) %>
         
