@@ -25,7 +25,7 @@ COURSE_ABBREV = 'SE'
 # and 2) figure out the ordering of classes on the sidebar.
 
 LECTURES_SCHEDULE_CONFIG = ScheduleDef.new(
-  first_day: "aug-29-2019",
+  first_day: "aug-27-2020",
   weekdays: [:tuesday, :thursday],
   start_times: ["15:30", "15:30"],
   end_times: ["16:50", "16:50"],
