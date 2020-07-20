@@ -51,7 +51,6 @@ SECTION_CONFIG = [
                  type: :lecture, schedule: LECTURES_SCHEDULE_CONFIG, bullet: :dash),
   SectionDef.new("Homework", "homework", hidden: true, type: :section),
   SectionDef.new("Background", "background", type: :section, collapsed: false, bullet: :star),
-  SectionDef.new("Term Project", "term", type: :section, collapsed: false),
   SectionDef.new("Topics", "topics", hidden: true, type: :section)
 ].freeze
 
