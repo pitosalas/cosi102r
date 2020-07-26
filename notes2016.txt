@@ -1,0 +1,39 @@
+Speakers:
+
+glenn McDonald - Ideas
+Sue Squires - Finance for Geeks
+Francois Gossieaux - Modern Marketing
+Jeffrey Beir - Fund Raising
+Bill Wittenberg - Presentations
+- Growth Hacking
+-
+
+
+Speakers:
+
+- Ideas
+- Finance
+- Pricing
+- Starting
+- VC
+- Growth
+- Failure
+
+Speakers last year
+
+Andy Payne: [Starting] or Fundraising - around Sep 10
+Bill Wittenberg: [Presentations]
+Yoav: [Growth] or Failure, Culture, Hiring, Team Building
+Jeffrey: Ideas, [Finance], Fund Raising, Metrics/Proof
+Rick Treitman: [Failure]
+
+---
+
+Topical parts of course:
+
+General
+Hypotheses: ideas, vision, hypotheses/
+MVP: mvp, mockups, prototypes, tests, metrics, pivot
+Revenue: Marketing, Value Prop, Businessmodels, pricing, Growth
+Entrepreneurship: Finance, Entrepreneurshp, Founding, IP, Corp Structures, Funding, Vc
+Skills: Team work, Presentations, Agile, Realworld

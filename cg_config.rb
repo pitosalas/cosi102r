@@ -25,7 +25,7 @@ COURSE_ABBREV = 'SE'
 # and 2) figure out the ordering of classes on the sidebar.
 
 LECTURES_SCHEDULE_CONFIG = ScheduleDef.new(
-  first_day: "aug-29-2019",
+  first_day: "aug-27-2020",
   weekdays: [:tuesday, :thursday],
   start_times: ["15:30", "15:30"],
   end_times: ["16:50", "16:50"],
@@ -51,7 +51,6 @@ SECTION_CONFIG = [
                  type: :lecture, schedule: LECTURES_SCHEDULE_CONFIG, bullet: :dash),
   SectionDef.new("Homework", "homework", hidden: true, type: :section),
   SectionDef.new("Background", "background", type: :section, collapsed: false, bullet: :star),
-  SectionDef.new("Term Project", "term", type: :section, collapsed: false),
   SectionDef.new("Topics", "topics", hidden: true, type: :section)
 ].freeze
 
@@ -65,7 +64,7 @@ SITE_URL = "http://cosi102r.s3-website-us-east-1.amazonaws.com"
 # This is usually /content/index.md.erb.
 #
 # Note: the .erb suffix is required when setting the HOME_PAGE path.
-HOME_PAGE = "/content/intro/10_syllabus.md.erb"
+HOME_PAGE = "/content/intro/welcome.md.erb"
 
 # Menulinks defines the links on the navigation bar.
 # They are formatted as "Name" - "URL" pair.

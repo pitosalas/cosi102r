@@ -1,0 +1,44 @@
+#### Notes for this year
+* Consider adding Lean Startup Case Study
+* Add page count max on pilot, stage 1, 2 and final deliverables (15?) and make sure there is a rubric. This year we had a bit of a problem  because some of the TAs were over zealous on their grading and this led to some teams going nuts on the details they had for the interim reports
+* Get rid of "showcase day script" deliverables
+* Give a specific set of elements that must be in the slides and the presentation
+  * what is the pain (why the world sucks)
+  * what would alleviate the pain
+  * Describe the product show product screens. Make really sure audience understands what it is and what it does. Also make sure they understand what state the product is in (mockup, prototype, MVP, etc)
+  * What is the market and how big is it
+  * What is the Pricing
+  * Given that, some forecast or analysis
+  * Dont worry too much about costs
+  * Competition
+  * Why wasnt this done so far (or has it?)
+  * What are this team's qualifications?
+  * Conclusion and symmary
+* Give a specific yet high level outline for the project reports
+* Many teams didn't even show the product in their pitches
+
+Feedback from Class:
+
+- Explain the engine of growth better
+- Quick 10 minute powerpoint on for example the engine of growth
+- DOnt link between main lecture page and others too often. Avoid if possible
+- Monkey article link was broken
+- Double check internal links on web site for 0.0.0.0
+- Move individual assignments earlier and more participation later
+- Pre-pilot project to see where your interest and your role within the team
+- Teams
+    - Final project: teams based on people’s availability for time.
+    - Mix them together
+    - Mix maturity and age
+- Speakers: More speakers
+    - Karen’s maybe too much
+    - Speaker on Pricing models
+    - Speaker for Business Model Canvas
+    - Making connection, presentation, objections, closing: Sales
+- How is a computer business different from other business
+- Lean Startup case study as part of the course
+- Angel podcast was great.Maybe restructure part of the course along the book
+- Explain early what the end target is going to be
+- Have a panel instead of an individual speaker
+- Trello is more appropriate for other course. Many people didn’t like it.
+-
