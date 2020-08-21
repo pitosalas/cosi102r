@@ -94,18 +94,23 @@ h2 {
 }
 
 h3 {
-  font-size: 1rem;
-}
-
-h3.subheader {
-  /* border-bottom: rgb(64, 56, 207) solid 2px; */
-  padding-bottom: 5px;
-  margin-bottom: 10px;
-
+  border-top: grey dotted 0.5px;
+  font-size: 1.15rem;
 }
 
 h4 {
-  font-size: 0.75rem;
+  font-size: 1.0rem;
+  margin-left: 10px;
+}
+
+div.subheader {
+  margin-top: -10px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+h4+ol {
+  margin-left: 10px;
 }
 
 /* Table use only */
