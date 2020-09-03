@@ -15,7 +15,7 @@ COPYRIGHT_STRING = "Copyright (2013-#{Time.now.year}) #{AUTHOR_NAME}, #{AUTHOR_E
 AWS_BUCKET = "cosi102r"
 
 # COURSE
-COURSE_SHORT_NAME = 'Cosi102a'
+COURSE_SHORT_NAME = 'Cosi102r'
 COURSE_LONG_NAME = 'Software Entrepreneurship'
 COURSE_ABBREV = 'SE'
 
@@ -30,9 +30,9 @@ LECTURES_SCHEDULE_CONFIG = ScheduleDef.new(
   start_times: ["15:30", "15:30"],
   end_times: ["16:50", "16:50"],
   number: 28,
-  skips: ["oct-1-2019", "oct-3-2019", "oct-15-2019", "nov-28-2019"],
-  start_time: "15:30",
-  end_time: "16:50"
+  skips: ["sep-10-2020"],
+  start_time: "16:00",
+  end_time: "17:30"
 )
 
 # Section_config defines the structure of the course.
