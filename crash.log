@@ -1,14 +1,17 @@
-Crashlog created at 2020-09-08 15:34:42 -0400
+Crashlog created at 2020-09-16 17:21:28 -0400
 
 ===== MESSAGE:
 
-SyntaxError: item /content/topics/robotics_logistics/cosi119a_course_materials.md.erb (rep default):9: syntax error, unexpected ')', expecting '.' or &. or :: or '['
-...(( link_to_topic, :rosbooktoc ).to_s); _erbout.<< " for clar...
+SyntaxError: item /content/lectures/stage1/45_term_projects_kickoff.md.erb (rep default):16: no .<digit> floating literal anymore; put 0 before dot
+...ut.<<(( link_to_topic :bodega2.0 ).to_s); _erbout.<< "\n    ...
+...                              ^
+item /content/lectures/stage1/45_term_projects_kickoff.md.erb (rep default):16: syntax error, unexpected tINTEGER
+...t.<<(( link_to_topic :bodega2.0 ).to_s); _erbout.<< "\n    *...
 ...                              ^
 
 ===== ITEM BEING COMPILED:
 
-Current item: /content/topics/robotics_logistics/cosi119a_course_materials.md.erb (:default representation)
+Current item: /content/lectures/stage1/45_term_projects_kickoff.md.erb (:default representation)
 
 ===== STACK TRACE:
 
