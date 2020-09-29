@@ -15,7 +15,7 @@ COPYRIGHT_STRING = "Copyright (2013-#{Time.now.year}) #{AUTHOR_NAME}, #{AUTHOR_E
 AWS_BUCKET = "cosi102r"
 
 # COURSE
-COURSE_SHORT_NAME = 'Cosi102r'
+COURSE_SHORT_NAME = 'Cosi102'
 COURSE_LONG_NAME = 'Software Entrepreneurship'
 COURSE_ABBREV = 'SE'
 
