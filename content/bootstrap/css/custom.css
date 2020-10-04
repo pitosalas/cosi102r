@@ -182,6 +182,10 @@ footer {
   visibility: hidden;
 }
 
+.jumbotron {
+  background-color: rgb(247, 241, 213);
+}
+
 .iconbadge {
   margin-left: 0.75rem;
   margin-right: 0.75rem;
