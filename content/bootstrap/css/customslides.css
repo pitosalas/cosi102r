@@ -32,14 +32,18 @@ body {
 
 
 .jumbotron {
-	background-color: rgb(247, 241, 213);
+	background-color: rgb(203, 216, 250);
 	border-radius: 10px;
 	border-style: solid;
 	border-width: 1px;
 	margin-top: 3rem;
-	margin-left: 5rem;
-	margin-right: 5rem;
+	margin-left: 7rem;
+	margin-right: 7rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	padding-top: 1.5rem;
+}
+
+.jumbotron h1 {
+	font-size: 3rem;
 }

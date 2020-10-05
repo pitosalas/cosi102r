@@ -94,8 +94,10 @@ h2 {
 }
 
 h3 {
-  border-top: grey dotted 0.5px;
+  border-top: grey dotted 1.5px;
   font-size: 1.05rem;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
 }
 
 h4 {
@@ -183,7 +185,9 @@ footer {
 }
 
 .jumbotron {
-  background-color: rgb(247, 241, 213);
+  background-color: rgb(247, 231, 213);
+  margin-left: 3rem;
+  margin-right: 3rem;
 }
 
 .iconbadge {
