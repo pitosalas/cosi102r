@@ -1,45 +1,36 @@
-Crashlog created at 2020-11-05 16:13:46 -0500
+Crashlog created at 2020-11-09 21:12:02 -0500
 
 ===== MESSAGE:
 
-Nanoc::Core::Errors::DependencyCycle: The site cannot be compiled because there is a dependency cycle:
+RuntimeError: 'carole_carlson': invalid reference in section "topics"
 
-    (1) item /content/topics/entrep/startup_funding.md.erb, rep :default, uses compiled content of (1)
+===== ITEM BEING COMPILED:
+
+Current item: /content/lectures/stage3/265_speaker_carole_carson.md.erb (:default representation)
 
 ===== STACK TRACE:
 
-  0. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/item_rep_selector.rb:36:in `mark_failed'
-  1. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/item_rep_selector.rb:58:in `rescue in block in each'
-  2. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/item_rep_selector.rb:51:in `block in each'
-  3. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/item_rep_selector.rb:47:in `loop'
-  4. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/item_rep_selector.rb:47:in `each'
-  5. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_stages/compile_reps.rb:23:in `block in run'
-  6. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_stages/compile_reps.rb:55:in `run_phase_stack'
-  7. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_stages/compile_reps.rb:22:in `run'
-  8. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_stage.rb:9:in `block in call'
-  9. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/instrumentor.rb:10:in `call'
-  10. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_stage.rb:8:in `call'
-  11. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compiler.rb:88:in `run_until_end'
-  12. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/commands/compile.rb:47:in `block in run_once'
-  13. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/compile_listeners/abstract.rb:38:in `run_while'
-  14. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/commands/compile.rb:46:in `run_once'
-  15. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/commands/compile.rb:25:in `run'
-  16. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/command_runner.rb:15:in `block in call'
-  17. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/error_handler.rb:15:in `block in handle_while'
-  18. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/error_handler.rb:57:in `handle_while'
-  19. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/error_handler.rb:15:in `handle_while'
-  20. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/command_runner.rb:14:in `call'
-  21. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/cri-2.15.10/lib/cri/command_dsl.rb:303:in `block in runner'
-  22. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/cri-2.15.10/lib/cri/command.rb:360:in `run_this'
-  23. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/cri-2.15.10/lib/cri/command.rb:296:in `run'
-  24. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/cri-2.15.10/lib/cri/command.rb:314:in `run'
-  25. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli.rb:88:in `block in run'
-  26. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/error_handler.rb:15:in `block in handle_while'
-  27. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/error_handler.rb:57:in `handle_while'
-  28. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli/error_handler.rb:15:in `handle_while'
-  29. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-cli-4.11.16/lib/nanoc/cli.rb:86:in `run'
-  30. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-4.11.16/bin/nanoc:18:in `<top (required)>'
-  31. /Users/pitosalas/.rbenv/versions/2.6.6/bin/nanoc:23:in `load'
+  0. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/coursegen-0.9.1/lib/coursegen/course/data/section.rb:22:in `find_by_short_name'
+  1. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/coursegen-0.9.1/lib/coursegen/course/data/toc.rb:52:in `lookup_citem'
+  2. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/coursegen-0.9.1/lib/coursegen/course/helpers/content_helpers.rb:30:in `lookup_nitem'
+  3. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/coursegen-0.9.1/lib/coursegen/course/helpers/content_helpers.rb:4:in `include_topic'
+  4. item /content/lectures/stage3/265_speaker_carole_carson.md.erb (rep default):7:in `get_binding'
+  5. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/2.6.0/erb.rb:901:in `eval'
+  6. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/2.6.0/erb.rb:901:in `result'
+  7. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-4.11.16/lib/nanoc/filters/erb.rb:32:in `run'
+  8. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/filter.rb:188:in `setup_and_run'
+  9. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/executor.rb:22:in `filter'
+  10. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_phases/recalculate.rb:32:in `block in run'
+  11. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/action_sequence.rb:49:in `block in each'
+  12. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/action_sequence.rb:49:in `each'
+  13. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/action_sequence.rb:49:in `each'
+  14. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_phases/recalculate.rb:29:in `run'
+  15. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_phases/abstract.rb:23:in `call'
+  16. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_phases/abstract.rb:25:in `block in call'
+  17. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_phases/cache.rb:25:in `run'
+  18. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_phases/abstract.rb:23:in `call'
+  19. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_phases/abstract.rb:25:in `block in call'
+  20. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/compilation_phases/resume.rb:14:in `block in run'
 
 ===== VERSION INFORMATION:
 
@@ -48,7 +39,7 @@ Running ruby 2.6.6 (2020-03-31) on x86_64-darwin19 with RubyGems 3.0.3.
 
 ===== SYSTEM INFORMATION:
 
-Darwin iMac-2018.local 19.6.0 Darwin Kernel Version 19.6.0: Mon Aug 31 22:12:52 PDT 2020; root:xnu-6153.141.2~1/RELEASE_X86_64 x86_64
+Darwin iMac-2018.local 19.6.0 Darwin Kernel Version 19.6.0: Thu Oct 29 22:56:45 PDT 2020; root:xnu-6153.141.2.2~1/RELEASE_X86_64 x86_64
 
 ===== INSTALLED GEMS:
 
