@@ -1,20 +1,20 @@
-Crashlog created at 2020-11-17 14:42:58 -0500
+Crashlog created at 2020-11-30 11:41:37 -0500
 
 ===== MESSAGE:
 
-RuntimeError: 'ip_exercise': invalid reference in section "topics"
+TypeError: wrong argument type Symbol (expected Module)
 
 ===== ITEM BEING COMPILED:
 
-Current item: /content/lectures/stage3/278_ip.md.erb (:default representation)
+Current item: /content/extras/extras/285_leadership.md.erb (:default representation)
 
 ===== STACK TRACE:
 
-  0. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/coursegen-0.9.1/lib/coursegen/course/data/section.rb:22:in `find_by_short_name'
-  1. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/coursegen-0.9.1/lib/coursegen/course/data/toc.rb:52:in `lookup_citem'
-  2. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/coursegen-0.9.1/lib/coursegen/course/helpers/content_helpers.rb:30:in `lookup_nitem'
-  3. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/coursegen-0.9.1/lib/coursegen/course/helpers/content_helpers.rb:4:in `include_topic'
-  4. item /content/lectures/stage3/278_ip.md.erb (rep default):12:in `get_binding'
+  0. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/context.rb:66:in `include'
+  1. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/context.rb:66:in `block in include'
+  2. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/context.rb:66:in `instance_eval'
+  3. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-core-4.11.16/lib/nanoc/core/context.rb:66:in `include'
+  4. item /content/extras/extras/285_leadership.md.erb (rep default):6:in `get_binding'
   5. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/2.6.0/erb.rb:901:in `eval'
   6. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/2.6.0/erb.rb:901:in `result'
   7. /Users/pitosalas/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/nanoc-4.11.16/lib/nanoc/filters/erb.rb:32:in `run'
