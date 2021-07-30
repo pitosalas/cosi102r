@@ -1,0 +1,28 @@
+---
+title: Welcome!
+desc: Introductions, how the course will run, logistics
+slides: true
+category: Product Management
+---
+:h2 Welcome -- What is this course about?
+
+* What is entrepreneurship anyway?
+* "What a computer scientist needs to know to be a Chief Technology Officer"
+* "The biggest pitfall among computer scientists, hackers, and programmers is to start building a product before they have a clue if anyone actually wants it."
+* "Product Management"
+* A little about my own path (see <%= link_to_topic :pitofaq %>)
+
+:slide_title Basic Logistics
+
+* Tour of the course web site
+* Tour of Latte
+
+:slide_title Getting to know each other a little - 20 minutes
+
+:topic_include :zoom_icebreaker
+
+:slide_break
+
+:topic_include :social_contract
+
+:lecture_end

@@ -43,14 +43,9 @@ category: Product Management
 
 <slide_break></slide_break>
 
-## Video Interlude
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NVk9YiKVA9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:slide_title Ideas are cheap!
 
-<br/>
+:include_topic :ideas_are_cheap
 
-<slide_break></slide_break>
-
-## Ideas are cheap!
-
-<%= include_topic :ideas_are_cheap %>
+:lecture_end

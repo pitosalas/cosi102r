@@ -9,24 +9,22 @@ hwref: week13
 * Discussion: How to make the course better. Open discussion of feedback on how to make the course better.
 * Quick checkin survey
 
-<slide_break></slide_break>
-
-### Online Poster Session
+:slide_title Online Poster Session!
 
 * Working on the online poster session. 
-* 90 minutes Friday 12/11 or Monday 12/14
+* 90 minutes Fridexitay 12/11 or Monday 12/14
 * Your attendance will contribute half a letter grade to your team contribution (the 15% based on assessments)
 * Details to follow 
 
-<slide_break></slide_break>
+:slide_title Final Deliverable
 
-<%= include_topic :cosi102a_final_deliverables %>
+:topic_include :cosi102a_final_deliverables
 
-<slide_break></slide_break>
+:big_slide_title Real Wordl Survival Kit!
 
-<%= include_topic :real_world %>
+:topic_include :real_world
 
-<slide_break></slide_break>
+:slide_break 
 
 <blockquote class="pretty">Everybody! Thanks for your contribution to this course and all your hard work! You can see that you've achieved a lot and learned a lot! And especially thanks to our TAs!</blockquote>
 
