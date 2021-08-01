@@ -1,16 +1,13 @@
 ---
 title: Weekly Homeworks
 ---
-## Submission
+## Catalog of homework assignments
 
-* Homeworks are due on Monday night unless I announce an exception
-* There is an automatic 3 day grace period with 20 points deduction
-* If you don't follow the required format, that is another 20 point deduction
-* Participation homeworks are always submitted to the [participation blog](https://moodle2.brandeis.edu/mod/forum/view.php?id=1134492)
-
-<%= list_of(source: "homework",
+<%= list_of(source: "topics",
             rows: ["page"],
-            cols: [:order,  :title, :due, :lectref],
-            headers: {order: "wk", lectref: "Lecture Topics", reading: "Reading", title: "Assignment Summary", due: "Due"},
+            subsections: ["/content/topics/homeworks_gradescope/"],
+            cols: [:order, :title, :desc, :due],
+            headers: {title: "Assignment", desc: "Details", due: "Due Date"},
+
             items: @items) %>
-        
+
