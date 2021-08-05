@@ -2,29 +2,13 @@
 title: Lean Startup
 desc: Learn basics of Lean Startup; Begin term product discussion
 slides: true
-hwref: week1
 category: Product Management
 ---
+:h2 Logistics
 
-## Grading
+* Checkin Quiz on Gradescope
 
-* General information about grading: <%= link_to_topic :general_grading %>
-* How grades are computed: <%= link_to_topic :cosi102r_grade_components %>
-* Participation: <%= link_to_topic :particip_grading %>
-* There will be a very short pop quiz on most days in class
-* I've not decided yet about midterm and final exams
-
-<slide_break></slide_break>
-
-## Some Logistics
-
-* This is week "B" for purposes of TA office hours
-* Each week has a one page listing of homework due the coming week.
-* The due time and date is midnight on Monday night of that week
-* There is an automatic grace period of 3 days, but with a 20 point penalty.
-* For example, here's what will be due at the next Monday: <%= link_to_section :homework, :week2 %>
-
-## Discussion about Paul Graham's (PG) Article
+:slide_title Discussion about Paul Graham's (PG) Article
 
 * The Objective of this discussion is to reinforce the key ideas from the article and get different perspectives
   * Break into random groups of 6 for 10 minutes to discuss the article
@@ -32,20 +16,17 @@ category: Product Management
 * Discuss the following questions in the group
   * When we come back together each group should have decided on one student to speak and report back on the questions below.
 
-<slide_break></slide_break>
+:slide_title Discussion Questions
 
-#### Discussion Questions
 * Considering PG's idea of a graph with the x-axis people who want the product; y-axis how badly they want it
 * Why would google look like an immense crater, Facebook like a Deep Shallow Well?
 * Come up with two other well known products and discuss what their PG graph would look like.
 * According to PG what is a Vertical and what is a Horizontal product?
 * Come up with one example each of of highly horizontal products; examples of highly vertical products?
 
-<slide_break></slide_break>
-
-
 :slide_title Ideas are cheap!
 
-:include_topic :ideas_are_cheap
+:topic_include :ideas_are_cheap
 
-:lecture_end
+:slide_bigtitle That's All For Now!
+:image :thatsallfolks
