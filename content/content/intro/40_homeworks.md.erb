@@ -1,0 +1,13 @@
+---
+title: List of Homeworks
+---
+* This list is just for your refefence
+* They will actually be assigned from Latte and Gradescope
+
+<%= list_of(source: "topics",
+            rows: ["page"],
+            subsections: ["/content/topics/homeworks_gradescope/"],
+            cols: [:cat, :title, :desc],
+            headers: {title: "Assignment", desc: "Details", cat: "Category", due: "Due Date"},
+            items: @items) %>
+
