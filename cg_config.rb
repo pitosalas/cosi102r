@@ -8,7 +8,7 @@ require 'coursegen'
 
 # AUTHOR
 AUTHOR_NAME = 'R. Pito Salas'
-AUTHOR_EMAIL = 'pitosalas@brandeis.edu'
+AUTHOR_EMAIL = 'rpsalas@brandeis.edu'
 COPYRIGHT_STRING = "Copyright (2013-#{Time.now.year}) #{AUTHOR_NAME}, #{AUTHOR_EMAIL}"
 
 # Bucket Deployment of the course
