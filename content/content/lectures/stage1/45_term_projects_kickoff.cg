@@ -1,0 +1,56 @@
+---
+title: Teams and ideas
+desc: More discussions about the products that have been picked
+slides: true
+cat: Product Management
+---
+:topic_include :prod_brainstorm
+
+:slide_bigtitle MVP Example and practice
+
+### Purpose
+
+* Modeling how to conduct an out of the building MVP
+* Also how to empathize with the potential user's perspectives
+
+:slide_title Activity
+
+* How would be test this product? :topic_link :bodega2
+* Example: Going out of the building to talk to a shop owner
+* What are some hypotheses that you could test with that?
+* What do you think a shop owner asks themselves before adopting your product or service?
+* Think about this for a little while, write some answers for yourself
+
+:slide_bigtitle Kicking off Term projects
+
+:slide_title Ideas are cheap.
+
+* Whether you wrote up the idea or thought up the idea or love the idea, remember the idea is 0.1% of the journey.
+* The idea as written up is just a jumping off point.
+* Based on the team and going out of the building, you will adjust it a little or a lot even.
+
+:slide_title All team members have an equal voice
+
+:slide_title Alignment
+
+* This is  very important concept.
+* I will harp on it a lot.
+* Work to the point where each team member would explain the product in the same way, as the same thing
+* This can only come through discussion, writing things down, being open to new ideas and flexible to adjust your ideas.
+* The only thing that makes an idea "the best" or "right" is what customers, users, people are willing to adopt.
+
+:slide_title Review of Lean Startup Concepts (so far)
+
+* :topic_link :build_measure_learn
+* :section_link :background, :hypotheses
+* :topic_link :hypothesis_types
+* :topic_link :mvp
+
+:slide_title Discussions
+
+* Break out rooms for teams
+* Discuss and refine your idea
+* Review the :topic_link :hw_102r_proj_stage1
+* It will be due next week. Begin working on it.
+
+:lecture_end

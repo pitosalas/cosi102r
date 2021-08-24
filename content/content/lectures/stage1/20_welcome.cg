@@ -9,6 +9,7 @@ category: Product Management
 * Back in person
 * What's it like for me
 * And for you?
+* Bear with me - on content, homeworks and grading. Lots new.
 
 :slide_title About the course
 
@@ -24,27 +25,16 @@ category: Product Management
 * Tour of Latte
 * Tour of GradeScope
 
-
-:slide_title Getting to know each other a little - 20 minutes
-
-:topic_include :group_icebreaker
-
 :slide_title This is a Team course
 
 * Tell us about yourselves
-* Do this [Simple Questionnaire](https://forms.gle/EDNFn9T8o7aMK7aj8) (5 min)
+* Do this [Simple Questionnaire](https://forms.gle/EDNFn9T8o7aMK7aj8)
+* How will teams get formed and how will they work?
 
 :slide_title Grading
 
-* General information about grading: :topic_link :general_grading
+* General information about grading: :topic_link :general_grading_gradescope
 * How grades are computed: :topic_link :cosi102r_grade_components
-* Participation: :topic_link :particip_grading
-* There will be a very short pop quiz on most days in class
 * I've not decided yet about midterm and final exams
-
-:slide_title Some Logistics
-
-* In general homeworks are due at 11:50pm on the due date
-* There is an automatic grace period of 3 days, but with a 20 point penalty.
 
 :lecture_end

@@ -1,10 +1,8 @@
 ---
-title: Review
-desc: Look back and look forward
+title: Review!
+desc: Look at what we've learned so far
 slides: true
 ---
-:h2 Logistics
- 
 
 :slide_title Pre/Re-View Lean Startup Concepts
 
@@ -17,8 +15,6 @@ slides: true
 
 :topic_include :ls_summary_questions_proj_1
 
-<slide_break></slide_break>
-
-:topic_include_topic :ls_summary_questions_proj_2
+:topic_include :ls_summary_questions_proj_2
 
 :lecture_end

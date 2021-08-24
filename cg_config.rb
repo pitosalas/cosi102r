@@ -17,7 +17,7 @@ AWS_BUCKET = "cosi102r"
 # COURSE
 COURSE_SHORT_NAME = 'Cosi102'
 COURSE_LONG_NAME = 'Software Entrepreneurship'
-COURSE_ABBREV = 'SE'
+COURSE_ABBREV = '102'
 
 # Lectures_schedule defines the schedule of lectures.
 #
@@ -30,7 +30,7 @@ LECTURES_SCHEDULE_CONFIG = ScheduleDef.new(
   start_times: ["16:00", "16:00"],
   end_times: ["17:30", "17:30"],
   number: 28,
-  skips: [],
+  skips: ["sep-7-2021"],
   start_time: "16:00",
   end_time: "17:30"
 )
