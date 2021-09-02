@@ -1,0 +1,22 @@
+---
+title: Basic Design
+desc: Basics of designing attractive and usable interfaces!
+slides: true
+---
+:h2 Logistics
+
+* This is not a course on UI (User Interface) or UX (User Experience) or Graphic design
+* Yet you need to raise your game in each of these categories
+* As an entrepreneur, you have to wear many hats until you can afford to hire the experts
+
+:slide_title Lets take a look:
+
+* Volunteers show off their two screen samples from homework and explain what design principles were violated.
+
+:slide_title Affordances
+
+:topic_include :affordances_illustrated
+
+:topic_include :pitos_rules_of_ux
+
+:lecture_end
