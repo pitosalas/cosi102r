@@ -7,16 +7,28 @@ slides: true
 :h2 Logistics
 
 * Your product idea is not your final product idea!
-* Lots of brainstorming still coming
+* Teams and adds and drops.
+* Stage 1 Deliverable and Formal Team Review Meetings
+* Gradescope problems, anyone?
+* How grading works and will work
 
-:topic_include :class_team_norms
+:slide_title The Lean Startup
 
-:slide_title Working On Teams
+* You have now read chapters 1-9 of TLS
+* What are some key concepts you learned?
+* What questions do you have?
+* What is an MVP? What is a concierge MVP? What is an engine of growth?
+
+:slide_bigtitle Working On Teams
 
 :topic_include :working_in_teams
 
-:topic_include :conflict
+:slide_title Going deeper
 
-:topic_include :meetings
+* :topic_link :working_in_teams_key_challenges
+* :topic_link :conflict
+* :topic_link :meetings
+
+:topic_include :team_norms_exercise
 
 :lecture_end
