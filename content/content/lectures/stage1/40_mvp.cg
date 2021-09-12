@@ -1,6 +1,6 @@
 ---
 title: Minimum Viable Product
-desc: What is an MVP and its role in the Lean Startup. Brainstorm products.
+desc: What is an MVP and its role in the Lean Startup
 cat: Product Management
 slides: true
 ---
@@ -9,6 +9,8 @@ slides: true
 * Announcements
 
 :topic_include :mvp
+
+:topic_include :mvp_taxonomy
 
 :topic_include :choose_product
 

@@ -1,10 +1,10 @@
 ---
-title: Teams and ideas
-desc: More discussions about the products that have been picked
+title: Evaluating Business Opportunities
+desc: Practice thinking critically about new business possibilities
 slides: true
 cat: Product Management
 ---
-:topic_include :prod_brainstorm
+:topic_include :entrep_critical_thinking
 
 :slide_bigtitle MVP Example and practice
 
