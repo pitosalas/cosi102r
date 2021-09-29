@@ -1,0 +1,14 @@
+---
+title: The Pivot
+desc: What's a pivot and why to pivot
+slides: true
+---
+:h2 Logistics
+
+:topic_include :pivot_intro
+
+:topic_include :pivot_measurement
+
+:topic_include :pivot_types
+
+:lecture_end
