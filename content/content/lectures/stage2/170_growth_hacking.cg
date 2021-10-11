@@ -1,0 +1,13 @@
+---
+title: Growth Hacking
+desc: What is growth hacking and how does it work?
+slides: true
+---
+:h2 Logistics
+
+:topic_include :growth_hacking_summary
+
+:topic_include :pirate_metrics
+
+:lecture_end 
+
