@@ -8,6 +8,4 @@ slides: true
 * Checkin Questions
 * Review of final projects and Deliverables
 
-<slide_break></slide_break>
-
 <%= include_topic :building_financial_model %>

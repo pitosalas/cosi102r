@@ -3,32 +3,24 @@ title: Pricing Models
 desc: We get into what a pricing model is and how to think about one
 slides: true
 ---
+:h2 Logistics
+
 <div>
 <img src="http://www.newyorker.com/wp-content/uploads/2015/12/151207_a19651-600.jpg" style="width: 500px;"/>
 <div style="width: 800px; text-align: center; font-size: 120%; font-style: italic;">"The coffee is free, but now we rent the tables."</div>
 </div>
 <slide_break></slide_break>
 
-## Logistics
 
-* Checkin questions and discussion
+:slide_title What makes a "good" pricing model?
 
-<slide_break></slide_break>
-
-## What *is* a pricing model?
-
-<slide_break></slide_break>
-
-### What makes a "good" pricing model?
 * It has to be simple to understand
 * Customers are willing to pay it
 * It has a logical or reasonable story attached to it (which may or may not be true)
 * It can be contextualized with related products that have established a price
 * You can make an argument that your business will grow and profit with that pricing model
 
-<slide_break></slide_break>
-
-### How do you "test" a price?
+:slide_title How do you "test" a price?
 
 * A price and a pricing model are hypotheses!
 * Ultimately, that customers are paying it
@@ -36,9 +28,7 @@ slides: true
 * Find related or competing products that use a similar model
 * Develop a rationale that makes sense to the Customers
 
-<slide_break></slide_break>
-
-## Pricing Models
+:slide_title Pricing Models
 
 * A subset of the business model
 * Explanation of who pays and what they pay for
@@ -51,40 +41,20 @@ slides: true
   1. How often are they willing to pay for it?
   1. Is your pricing model *logical* or *reasonable*?
 
-<slide_break></slide_break>
+:callout :small, "Why is this? Does it make sense?", "The price of this steak is ridiculous! $42 for 12oz of Filet Mignon? My butcher charges me $12 per pound. What a ripoff!"
 
-<hr/> 
+:topic_include :pricing_model_exercise
 
-<%= callout("Why is this? Does it make sense?", "The price of this steak is ridiculous! $42 for 12oz of Filet Mignon? My butcher charges me $12 per pound. What a ripoff!") %>
+:slide_bigtitle Pricing
 
-<hr/>
-
-<slide_break></slide_break>
-
-## Video Interlude
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mmm0ccYPliU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr/>
-
-<slide_break></slide_break>
-
-<%= include_topic :pricing_model_exercise %>
-
-<slide_break></slide_break>
-
-## Pricing
-
-### Pricing as a hypothesis - how to test?
+:h4 How would you test a pricing model?
 
 * “What would you pay for this?”
 * “Would you buy this for $20?”
 * “How much do you think this is worth?”
 * “What’s the most you’d pay?”
 
-<slide_break></slide_break>
-
-### Freemium vs. Free Trial
+:slide_title Freemium vs. Free Trial
 
   * Play on words with "Premium" and "Free"
   * Freemium:
@@ -96,13 +66,9 @@ slides: true
     * Full product
     * Can use it only for limited time (e.g. 1 week)
 
-<slide_break></slide_break>
+:discussion_box "When is freemium more or less appropriate than free trial?"
 
-<%= discussion_box "When is freemium more or less appropriate than free trial?" %>
-
-<slide_break></slide_break>
-
-## Discussion about "our" products
+:slide_title Discussion about "our" products
 
 * Each team come up with at last TWO distinct pricing models for your product.
 * Take 15 minutes. Consider:
@@ -112,4 +78,4 @@ slides: true
 * Present them to class
 * How it fits into the financial model
 
-## That's all for today!
+:lecture_end

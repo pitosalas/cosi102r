@@ -3,22 +3,18 @@ title: Your life in spreadsheets
 desc: The limitless power of spreadsheets 
 slides: true
 ---
-## Logistics
+:h3 Logistics
 
 * Checkin Questions
 
-<slide_break></slide_break>
-
-## When is a spreadsheet the right tool?
+:slide_title When is a spreadsheet the right tool?
 
 * If you are making multiple calculations at the same time
 * If you are representing tabular information
 * If you are building a database
 * If you are moving columns and rows of data from one application (latte? pandas? excel?) to another
 
-<slide_break></slide_break>
-
-### Skills
+:slide_title Skills - explained and demonstrated
 
 * Using excel and google sheets
 * Role of .csv files
@@ -35,19 +31,6 @@ slides: true
 * =query
 * Pivot tables
 
-<slide_break></slide_break>
-
-## Video Interlude
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZthlSLYc5UQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<slide_break></slide_break>
-
-### Live Demos
-
-<slide_break></slide_break>
-
-## That's All For Today
+:lecture_end
 
 
