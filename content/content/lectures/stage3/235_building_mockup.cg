@@ -1,0 +1,24 @@
+---
+title: Creating a mockup or prototype
+desc: Going deeper on usability and paper prototyping
+slides: true
+---
+:topic_include :pitos_rules_of_ux
+
+:topic_include :usability_test
+
+:slide_title  Conclusion
+
+* I want you to always refer back to principles such as these when you design or present a user experience.
+* It's very easy to say, "Oh it's common sense." But you submit designs that violate these principles left and right.
+* It's important. Make it part of your toolkit. Internalize it! Take care!
+
+:slide_title Quick review: Creating an MVP / Prototyping / Mockups
+
+* Reminder: :topic_link :mvp
+* Compare terms: MVP vs. prototype vs. mockup
+* You need to be able to articulate exactly why you are creating a prototype
+* Looks like vs. Works like
+* Purpose of prototype dictates the medium and fidelity
+
+:lecture_end

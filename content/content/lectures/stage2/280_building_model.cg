@@ -3,9 +3,7 @@ title: Building the financial model
 desc: How to actually build a financial model
 slides: true
 ---
-## Logistics
+:topic_include :building_financial_model
 
-* Checkin Questions
-* Review of final projects and Deliverables
+:lecture_end
 
-<%= include_topic :building_financial_model %>
