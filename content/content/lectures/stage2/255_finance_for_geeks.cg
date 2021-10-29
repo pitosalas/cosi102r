@@ -1,6 +1,7 @@
 ---
 title: Finance for Geeks
 desc: Fundamentals of the financial plan
+slides: true
 ---
 :topic_include :finance_essentials
 
