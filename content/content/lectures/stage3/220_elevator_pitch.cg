@@ -5,7 +5,9 @@ slides: true
 ---
 ## Logistics
 
-* Quick Review: <%= link_to_topic :mvp_types %>
+* Quick Review: :topic_link :mvp_types
+* Look through this :topic_link :hw_102r_proj_stage3
+* Discuss :topic_link :cosi102a_final_deliverables
 
 :topic_include :elevator_pitch
 
