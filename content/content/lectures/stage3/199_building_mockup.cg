@@ -5,6 +5,8 @@ slides: true
 ---
 :topic_include :pitos_rules_of_ux
 
+:topic_include :mockups_prototypes
+
 :topic_include :usability_test
 
 :slide_title  Conclusion
