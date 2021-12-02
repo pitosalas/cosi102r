@@ -6,24 +6,7 @@ slides: true
 ## Logistics
 
 * Discussion: How to make the course better. Open discussion of feedback on how to make the course better.
-* Quick checkin survey
-
-:slide_title Online Poster Session!
-
-* Working on the online poster session. 
-* 90 minutes Fridexitay 12/11 or Monday 12/14
-* Your attendance will contribute half a letter grade to your team contribution (the 15% based on assessments)
-* Details to follow 
-
-:slide_title Final Deliverable
-
-:topic_include :cosi102a_final_deliverables
-
-:big_slide_title Real Wordl Survival Kit!
 
 :topic_include :real_world
 
-:slide_break 
-
-<blockquote class="pretty">Everybody! Thanks for your contribution to this course and all your hard work! You can see that you've achieved a lot and learned a lot! And especially thanks to our TAs!</blockquote>
-
+:lecture_end
