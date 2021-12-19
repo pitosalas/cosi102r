@@ -1,4 +1,4 @@
-# Notes 202
+# Notes 2021
 
 * More chances to share prod with other teams. Students want feedback on their ideas from peers
 * Think of something that will kill your idea immediately
@@ -21,5 +21,11 @@
 * IP
 * Shorten elevator pitch lecture - merge into presentations lecture
 * Excel Lecture or assignment -0 don't need both
+
+## Content
+
+* Jeffrey: "Only critical feedback would be to spend more time in advance on their financials - key assumptions, modeling their revenue/expense growth and capital to get to their first milestone. The ’shark-tank’ i’m raising $100k and will sell you 10% of the company is just not how it works in the real world, as you know. Also, being more realistic about how they will get their first customers/users and the cost of customer acquisition. "
+* Slow down the reading of the chapters and explain one or two key concepts from each chapter just as they read them
+
 
 
