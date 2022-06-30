@@ -74,9 +74,9 @@ HOME_PAGE = "/content/intro/10_syllabus.md.erb"
 #   %w[HOME /content/index.md]
 #   %w[TOC /content/course_toc.md]
 MENULINKS = [%w[lectures /content/intro/20_coursetoc.md/],
-            %w[gradescope https://www.gradescope.com/courses/282868],
-            %w[latte https://moodle2.brandeis.edu/course/view.php?id=24451],
-            ["previous years", "https://drive.google.com/drive/u/1/folders/1C8VCqgV4VNxObFn4XuA-ql81HhCEn0f2"]].freeze
+             %w[gradescope https://www.gradescope.com/courses/282868],
+             %w[latte https://moodle2.brandeis.edu/course/view.php?id=24451],
+             ["previous years", "https://drive.google.com/drive/u/1/folders/1C8VCqgV4VNxObFn4XuA-ql81HhCEn0f2"]].freeze
 
 # Helpful_box provides a feedback box on the sidebar.
 #
@@ -100,10 +100,10 @@ STYLING_CONFIG = {
 # search API key, and name of your index from Algolia.
 # For details, please refer to https://github.com/pitosalas/coursegen/blob/master/README.md.
 SEARCH_CONFIG = {
-  api_key: '849a9922ea6775baafc0b230c0f3d42f',
-  index_name: 'cosi102r',
+  api_key: '9465f5fc3cc6763f0332e5dca6d3cd50',
+  index_name: 'cosi102r-s3',
   # APP_ID is only used if you are running DocSearch on your own.
-  app_id: 'L3JT9QR0MO',
+  app_id: '3XX6YC62TS',
   debug: false
 }.freeze
 
