@@ -12,12 +12,10 @@ slides: true
 * Gradescope problems, anyone?
 * How grading works and will work
 
-:slide_title The Lean Startup
+:slide_title What does Learning mean
 
-* You have now read chapters 1-9 of TLS
-* What are some key concepts you learned?
-* What questions do you have?
-* What is an MVP? What is a concierge MVP? What is an engine of growth?
+* In the Build-Measure-Learn loop
+* Discuss the IMVU story in detail
 
 :slide_bigtitle Working On Teams
 
@@ -28,7 +26,5 @@ slides: true
 * :topic_link :working_in_teams_key_challenges
 * :topic_link :conflict
 * :topic_link :meetings
-
-:topic_include :team_norms_exercise
 
 :lecture_end

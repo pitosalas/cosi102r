@@ -6,29 +6,18 @@ slides: true
 ---
 :h2 Logistics
 
-* Here are all the domain expertise in this class!
+:slide_title Introduction to The Lean Startup
 
-    * Packaging and Design 
-    * Volleyball competition
-    * Organizing Liquid Latex
-    * Running Math Club
-    * Running a Fraternity
-    * Pitch competition at TAMID
-    * Online Platform
-    * Crosscountry competitions
-    * Waltham Food Delivery
-    * Swimming and Diving sports
-    * Rube Goldberg competitions
-    * Virtual Music Festivals
-    * Origami For Hope
-    * Investment and Quantitative Investing
+* It's a methodology not a religion
+* Goal is to build the right product, at the right time, for the right customer
+* Lots of failure examples
+* Key: Build, Measure, Learn, and do it again
 
+:slide_title What is an entrepreneur?
 
-:topic_include :lean_startup
-
-:topic_include :entrepreneur_four_questions
-
-:slide_title Key Take aways from The Lean Startup (ch 1,2,3)
+* What is an entrepreneur? Discussion.
+* What is a startup? Discussion
+* Discuss the SnapTax story
 
 * Build-measure-Learn: Always iterate, learn from information you gather; apply the learnings and go again
 * Validated Learning: Learning with empirical evidence in support of conclusions (learnings)
