@@ -1,0 +1,12 @@
+---
+title: Scientific Method
+desc: How LS approaches experimentation and testing
+cat: Product Management
+slides: true
+---
+:h4 Logistics
+* Questions?
+
+:topic_include :ch4
+:topic_include :ch5
+:lecture_end
