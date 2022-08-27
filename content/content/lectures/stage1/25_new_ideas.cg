@@ -8,18 +8,18 @@ category: Product Management
 
 * Any questions or concerns?
 * Product ideas:
-  * Remember that you need to have a notion of how the business would work
-  * And in certain cases you need to evaluate the technology risk
-  * Remember to look for *big pains*!
-  * To more research, googling, talking to your friends, thinking about your own experiences, family and acquaintances!
+  1. Remember that you need to have a notion of how the business would work
+  1. And in certain cases you need to evaluate the technology risk
+  1. Remember to look for *big pains*!
+  1. To more research, googling, talking to your friends, thinking about your own experiences, family and acquaintances!
 
 :slide_title Discussion about Paul Graham's (PG) Article
 
 * The Objective of this discussion is to reinforce the key ideas from the article and get different perspectives
-  * Break into random groups of 6 for 10 minutes to discuss the article
-  * Each student should say up front whether they read the article
+* Break into random groups of 6 for 10 minutes to discuss the article
+* Each student should say up front whether they read the article
 * Discuss the following questions in the group
-  * When we come back together each group should have decided on one student to speak and report back on the questions below.
+* When we come back together each group should have decided on one student to speak and report back on the questions below.
 
 :slide_title Discussion Questions
 
@@ -29,25 +29,14 @@ category: Product Management
 * According to PG what is a Vertical and what is a Horizontal product?
 * Come up with one example each of of highly horizontal products; examples of highly vertical products?
 
-:slide_bigtitle Preview of what this whole course is about
 
-:slide_title What we **are** looking for
+:topic_include :ch1
 
-* Ideas that are worth funding
-* Which means that they will make money, not a little, but a lot
-* Or another kind of impact, not a little but a lot
-* Products which take away a major pain, expense, risk, delay
-* We are looking for "an aspirin" not "a vitamin"
-* We need to be able to identify ("find") the customers
-* They need to be willing to pay for it
+:topic_include :ch2
 
-:slide_title What we are **not** looking for
-
-* Ideas which are cute, funny, clever
-* Products that you yourself would not be willing to pay for
-
-:slide_title Ideas are cheap!
+:topic_include :ch3
 
 :topic_include :ideas_are_cheap
+
 
 :lecture_end
