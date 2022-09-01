@@ -29,7 +29,7 @@ LECTURES_SCHEDULE_CONFIG = ScheduleDef.new(
   weekdays: [:tuesday, :friday],
   start_times: ["12:45", "12:45"],
   end_times: ["14:05", "14:05"],
-  number: 26,
+  number: 27,
   skips: ["sep-27-2022", "oct-18-2022", "nov-25-2022"],
   start_time: "12:45",
   end_time: "14:05"
