@@ -12,6 +12,9 @@ slides: true
 * Sit with your team
 * You will be called at random to answer some questions
 
+:topic_include :ch7
+:topic_include :ch8
+
 :slide_bigtitle Review of Key Terms
 
 :topic_include :ls_summary_questions_proj_1
