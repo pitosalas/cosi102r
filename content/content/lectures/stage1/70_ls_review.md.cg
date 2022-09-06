@@ -3,7 +3,14 @@ title: Review!
 desc: Look at what we've learned so far
 slides: true
 ---
-:slide_title Pre/Re-View Lean Startup Concepts
+:h2 Logistics
+
+* Questions?
+
+:topic_include :ch7
+:topic_include :ch8
+
+:slide_bigtitle Pre/Re-View Lean Startup Concepts
 
 * Some of these concepts are new to you
 * To help you understand them I will be going through the definitions more than once!
@@ -11,11 +18,6 @@ slides: true
 * Not sure yet whether we will have a midterm
 * Sit with your team
 * You will be called at random to answer some questions
-
-:topic_include :ch7
-:topic_include :ch8
-
-:slide_bigtitle Review of Key Terms
 
 :topic_include :ls_summary_questions_proj_1
 
