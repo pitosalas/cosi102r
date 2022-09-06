@@ -6,7 +6,10 @@ slides: true
 ---
 :h3 Logistics
 * Questions?
+* Before doing an experiment, form some hypotheses!
 
 :topic_include :ch4
 :topic_include :ch5
+:topic_include :hypotheses
+
 :lecture_end
