@@ -3,10 +3,6 @@ title: Finance for Geeks
 desc: Fundamentals of the financial plan
 slides: true
 ---
-:topic_include :finance_essentials
-
 :topic_include :basic_financial_modeling
-
-:topic_include :model_lemonade_stand_exercise
 
 :lecture_end
