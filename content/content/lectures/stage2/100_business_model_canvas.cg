@@ -4,7 +4,7 @@ desc: Intro to the business model canvas
 slides: true
 ---
 :h2 Logistics
-* Coming soon
+* Attendance
 
 :slide_bigtitle Business Models
 
@@ -14,7 +14,6 @@ slides: true
 
 :topic_include :business_model_intro
 
-
-:topic_include :business_model_canvas
+:topic_include :bm_canvas
 
 :lecture_end

@@ -19,7 +19,6 @@ slides: true
 
 :topic_include :pivot_intro
 
-
 :topic_include :pivot_measurement
 
 :topic_include :pivot_types
