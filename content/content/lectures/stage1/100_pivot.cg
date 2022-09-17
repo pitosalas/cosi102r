@@ -11,8 +11,6 @@ slides: true
 
 :topic_include :ch7
 
-:topic_include :customer_stages
-
 :topic_include :ch8
 
 :slide_bigtitle More About Pivots
