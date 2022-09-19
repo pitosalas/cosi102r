@@ -8,5 +8,6 @@ slides: true
 * Attendance
 
 :topic_include :funnel
+
 :topic_include :pirate_metrics
 
