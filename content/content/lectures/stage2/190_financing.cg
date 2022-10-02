@@ -3,13 +3,11 @@ title: Financing
 desc: Where does the money come from? How does Venture Capital, Angel Investment, etc work?"
 slides: true
 ---
-## Logistics
+:h3 Logistics
 
-<%= include_topic :startup_funding %>
+:include_topic :startup_funding
 
-<slide_break></slide_break>
-
-### Key Requirements
+:slide_title Key Requirements
 
 * Develop a plan that balances capital/time/milestones
 * Decide what need to do now, and what can be deferred
@@ -17,6 +15,4 @@ slides: true
 * Determine how much capital to raise for your first milestone
 * Ensure you position yourself for the next financing, ideally at a step-up
 
-<slide_break></slide_break>
-
-## That's all for today!
+:lecture_end

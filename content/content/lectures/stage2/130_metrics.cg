@@ -9,5 +9,7 @@ slides: true
 
 :topic_include :funnel
 
+:topic_include :tuning_engine_of_growth
+
 :topic_include :pirate_metrics
 

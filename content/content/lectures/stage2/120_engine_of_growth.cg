@@ -12,6 +12,4 @@ slides: true
 
 :topic_include :growth_models
 
-:topic_include :tuning_engine_of_growth
-
 :lecture_end

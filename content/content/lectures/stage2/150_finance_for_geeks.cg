@@ -5,4 +5,6 @@ slides: true
 ---
 :topic_include :basic_financial_modeling
 
+:topic_include :milestone_based_planning
+
 :lecture_end
