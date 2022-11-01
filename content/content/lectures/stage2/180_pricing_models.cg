@@ -11,7 +11,8 @@ slides: true
 </div>
 <slide_break></slide_break>
 
-:topic_include :model_lemonade_stand_exercise
+* :topic_link :model_lemonade_stand_exercise
+* :topic_link :pricing_model_exercise
 
 :slide_title What makes a "good" pricing model?
 
