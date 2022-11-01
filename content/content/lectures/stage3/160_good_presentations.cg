@@ -1,0 +1,9 @@
+---
+title: Pitch Presentations
+desc: How to design and approach the Presentations
+slides: true
+---
+:h3 Logistics
+* Attendance
+
+:topic_include :presentation_hints_general
