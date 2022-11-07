@@ -7,3 +7,6 @@ slides: true
 * Attendance
 
 :topic_include :presentation_hints_general
+:topic_include :cosi102a_presentation_content_tips
+
+:lecture_end
