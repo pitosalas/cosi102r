@@ -1,26 +1,13 @@
 ---
 title: Last Day!
-desc: Each team does a dry run of their Demo/Presentations
+desc: The Last Day Of Class
 slides: true
 ---
 :h2 Logistics
 
-* Welcome to GRAND DEMOS
-* 13 x 5 minutes of demos
-* Conclusion
-
-:slide_title In class GRAND DEMOS!
-
-* Each team will get 4 minutes to present, with 1 minute for one of their peers to ask a question. Each team is hard capped at 5 minutes. 
-* The TA will act as a timekeeper, giving you a 3, 2, and 1 minute visual que and will stop you mid sentence if you go over as we have 11 teams total.
-* This is not a formal presentation more of a dry run for the Showcase
-* It's a dry run for your final presentation but it is understood that it's not totally done.
-* We will be presenting in team order. Team 1 will go first, followed by Team 2, and so on so forth.
-* All members of the team are expected to be in the final class. This is your final presentation. No exceptions will be made.
-
 :slide_title Details on final deliverables for the course
 
-* Here are the details of what the deliverables should contain TBD
+* Here are the details of what the deliverables should contain :topic_link :cosi102a_final_deliverables
 * All deliverables due on the day of your Zoom meeting with Pito and the TA
 * Between that time and when you demo you can submit a "delta" . 
 
