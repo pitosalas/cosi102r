@@ -25,15 +25,17 @@ COURSE_ABBREV = '102'
 # and 2) figure out the ordering of classes on the sidebar.
 
 LECTURES_SCHEDULE_CONFIG = ScheduleDef.new(
-  first_day: "aug-26-2022",
+  first_day: "sep-1-2023",
   weekdays: [:tuesday, :friday],
-  start_times: ["12:45", "12:45"],
-  end_times: ["14:05", "14:05"],
+  start_times: ["11:10", "11:10"],
+  end_times: ["12:30", "12:30"],
   number: 27,
   skips: ["sep-27-2022", "oct-18-2022", "nov-25-2022"],
-  start_time: "12:45",
-  end_time: "14:05"
+  start_time: "11:10",
+  end_time: "12:30"
 )
+
+# T/F | 11:10 AM - 12:30 PM
 
 # Section_config defines the structure of the course.
 #
@@ -74,8 +76,8 @@ HOME_PAGE = "/content/intro/10_syllabus.md.erb"
 #   %w[HOME /content/index.md]
 #   %w[TOC /content/course_toc.md]
 MENULINKS = [%w[lectures /content/intro/20_coursetoc.md/],
-             %w[gradescope https://www.gradescope.com/courses/282868],
-             %w[latte https://moodle2.brandeis.edu/course/view.php?id=24451],
+             %w[gradescope https://www.gradescope.com/courses/558190],
+             %w[latte https://moodle2.brandeis.edu/course/view.php?id=30683],
              ["previous years", "https://drive.google.com/drive/u/1/folders/1C8VCqgV4VNxObFn4XuA-ql81HhCEn0f2"]].freeze
 
 # Helpful_box provides a feedback box on the sidebar.
