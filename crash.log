@@ -1,14 +1,14 @@
-Crashlog created at 2023-08-17 12:30:41 -0400
+Crashlog created at 2023-08-17 18:11:36 -0400
 
 ===== MESSAGE:
 
-RuntimeError: 'team_assignments': invalid reference in section "topics"
+RuntimeError: 'cosi102_specs_grading': invalid reference in section "topics"
 
-/opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/section.rb:22:in `find_by_short_name': 'team_assignments': invalid reference in section "topics" (RuntimeError)
+/opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/section.rb:22:in `find_by_short_name': 'cosi102_specs_grading': invalid reference in section "topics" (RuntimeError)
 	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/toc.rb:52:in `lookup_citem'
 	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:31:in `lookup_nitem'
 	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:5:in `include_topic'
-	from item /content/intro/10_syllabus.md.erb (rep slides):34:in `get_binding'
+	from item /content/intro/10_syllabus.md.erb (rep slides):32:in `get_binding'
 	from /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `eval'
 	from /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `result'
 	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-4.12.16/lib/nanoc/filters/erb.rb:32:in `run'
@@ -35,7 +35,7 @@ Current item: /content/intro/10_syllabus.md.erb (:slides representation)
   1. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/toc.rb:52:in `lookup_citem'
   2. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:31:in `lookup_nitem'
   3. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:5:in `include_topic'
-  4. item /content/intro/10_syllabus.md.erb (rep slides):34:in `get_binding'
+  4. item /content/intro/10_syllabus.md.erb (rep slides):32:in `get_binding'
   5. /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `eval'
   6. /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `result'
   7. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-4.12.16/lib/nanoc/filters/erb.rb:32:in `run'
