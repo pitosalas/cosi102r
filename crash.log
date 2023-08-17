@@ -1,19 +1,17 @@
-Crashlog created at 2023-08-15 18:00:04 -0400
+Crashlog created at 2023-08-17 12:30:41 -0400
 
 ===== MESSAGE:
 
-RuntimeError: 'reflection_portfolio': invalid reference in section "topics"
+RuntimeError: 'team_assignments': invalid reference in section "topics"
 
-/opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/section.rb:22:in `find_by_short_name': 'reflection_portfolio': invalid reference in section "topics" (RuntimeError)
+/opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/section.rb:22:in `find_by_short_name': 'team_assignments': invalid reference in section "topics" (RuntimeError)
 	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/toc.rb:52:in `lookup_citem'
 	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:31:in `lookup_nitem'
-	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/navigation_helpers.rb:52:in `link_to_section'
-	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/navigation_helpers.rb:16:in `link_to_topic'
-	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/lib/nanoc_filters.rb:33:in `block (2 levels) in <top (required)>'
-	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/lib/nanoc_filters.rb:33:in `gsub'
-	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/lib/nanoc_filters.rb:33:in `block in <top (required)>'
-	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/filter.rb:68:in `instance_exec'
-	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/filter.rb:68:in `block in define'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:5:in `include_topic'
+	from item /content/intro/10_syllabus.md.erb (rep slides):34:in `get_binding'
+	from /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `eval'
+	from /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `result'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-4.12.16/lib/nanoc/filters/erb.rb:32:in `run'
 	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/filter.rb:188:in `setup_and_run'
 	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/executor.rb:22:in `filter'
 	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/recalculate.rb:32:in `block in run'
@@ -29,31 +27,29 @@ RuntimeError: 'reflection_portfolio': invalid reference in section "topics"
 
 ===== ITEM BEING COMPILED:
 
-Current item: /content/topics/syllabus/general_grading_specs.cg (:default representation)
+Current item: /content/intro/10_syllabus.md.erb (:slides representation)
 
 ===== STACK TRACE:
 
   0. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/section.rb:22:in `find_by_short_name'
   1. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/toc.rb:52:in `lookup_citem'
   2. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:31:in `lookup_nitem'
-  3. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/navigation_helpers.rb:52:in `link_to_section'
-  4. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/navigation_helpers.rb:16:in `link_to_topic'
-  5. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/lib/nanoc_filters.rb:33:in `block (2 levels) in <top (required)>'
-  6. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/lib/nanoc_filters.rb:33:in `gsub'
-  7. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/lib/nanoc_filters.rb:33:in `block in <top (required)>'
-  8. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/filter.rb:68:in `instance_exec'
-  9. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/filter.rb:68:in `block in define'
-  10. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/filter.rb:188:in `setup_and_run'
-  11. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/executor.rb:22:in `filter'
-  12. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/recalculate.rb:32:in `block in run'
-  13. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/action_sequence.rb:48:in `each'
-  14. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/action_sequence.rb:48:in `each'
-  15. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/recalculate.rb:29:in `run'
-  16. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:23:in `call'
-  17. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:25:in `block in call'
-  18. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/cache.rb:28:in `run'
-  19. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:23:in `call'
-  20. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:25:in `block in call'
+  3. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:5:in `include_topic'
+  4. item /content/intro/10_syllabus.md.erb (rep slides):34:in `get_binding'
+  5. /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `eval'
+  6. /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `result'
+  7. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-4.12.16/lib/nanoc/filters/erb.rb:32:in `run'
+  8. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/filter.rb:188:in `setup_and_run'
+  9. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/executor.rb:22:in `filter'
+  10. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/recalculate.rb:32:in `block in run'
+  11. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/action_sequence.rb:48:in `each'
+  12. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/action_sequence.rb:48:in `each'
+  13. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/recalculate.rb:29:in `run'
+  14. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:23:in `call'
+  15. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:25:in `block in call'
+  16. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/cache.rb:28:in `run'
+  17. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:23:in `call'
+  18. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:25:in `block in call'
 
 ===== VERSION INFORMATION:
 
