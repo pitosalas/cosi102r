@@ -1,14 +1,11 @@
-Crashlog created at 2023-08-17 18:11:36 -0400
+Crashlog created at 2023-08-22 18:27:51 -0400
 
 ===== MESSAGE:
 
-RuntimeError: 'cosi102_specs_grading': invalid reference in section "topics"
+NoMethodError: undefined method `topic_link' for #<Nanoc::Core::Context:0x00000001206f5e70 @content="<% tbh = TableHelper.new(\"table-striped table-sm table-responsive table-hover\") %>\n<% tbh.headers(\"\", \"\") %>\n<% tbh.row(\"Instructors\", \"Pito Salas\") %>\n<% tbh.row(\"Class Times\", \"Tuesday and Friday | 11:10am - 12:30 PM\") %>\n<% tbh.row(\"Class Modality\", \"In Person\") %>\n<% tbh.row(\"Classroom\", \"Abelson-Bass: 131\") %>\n<% tbh.row(\"On-demand office Hours\", \"http://www.calendly.com/pitosalas/chat\") %>\n<% tbh.row(\"Prerequisites\", \"None, but Sophomore standing required\") %>\n<% tbh.row(\"Homework\", \"Daily homework assignments; major term project; team assignments.\") %>\n<% tbh.row(\"Credit Hours\", \"Success in this 4 credit hour course is based on the expectation that students will spend a minimum of 9 hours of study time per week in preparation for class (readings, papers, discussion sections, preparation for exams, etc.)\") %>\n<% tbh.row(\"Email contact: \", \"rpsalas@brandeis.edu\") %>\n<%= tbh.render %>\n\n## Course Description\n\n<%= include_topic :cosi102a_syllabus_intro %>\n\n<%= topic_link :cosi102a_specs_grading %>\n\n<%= include_topic :modality_in_person %>\n\n<%= include_topic :syllabus_change_policy %>\n\n<%= include_topic :cosi102r_prereq_credit_hours %> \n\n<%= include_topic :academic_integrity %>\n\n<%= include_topic :class_participation_in_person %>\n\n<%= include_topic :cosi102r_learning_objectives %>\n\n", @item=<Nanoc::Core::CompilationItemView identifier=/content/intro/10_syllabus-web.md.erb>, @rep=<Nanoc::Core::CompilationItemRepView item.identifier=/content/intro/10_syllabus-web.md.erb name=slides>, @item_rep=<Nanoc::Core::CompilationItemRepView item.identifier=/content/intro/10_syllabus-web.md.erb name=slides>, @items=<Nanoc::Core::ItemCollectionWithRepsView>, @layouts=<Nanoc::Core::LayoutCollectionView>, @config=<Nanoc::Core::ConfigView>>
 
-/opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/section.rb:22:in `find_by_short_name': 'cosi102_specs_grading': invalid reference in section "topics" (RuntimeError)
-	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/toc.rb:52:in `lookup_citem'
-	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:31:in `lookup_nitem'
-	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:5:in `include_topic'
-	from item /content/intro/10_syllabus.md.erb (rep slides):32:in `get_binding'
+/opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/context.rb:47:in `method_missing': undefined method `topic_link' for #<Nanoc::Core::Context:0x00000001206f5e70 @content="<% tbh = TableHelper.new(\"table-striped table-sm table-responsive table-hover\") %>\n<% tbh.headers(\"\", \"\") %>\n<% tbh.row(\"Instructors\", \"Pito Salas\") %>\n<% tbh.row(\"Class Times\", \"Tuesday and Friday | 11:10am - 12:30 PM\") %>\n<% tbh.row(\"Class Modality\", \"In Person\") %>\n<% tbh.row(\"Classroom\", \"Abelson-Bass: 131\") %>\n<% tbh.row(\"On-demand office Hours\", \"http://www.calendly.com/pitosalas/chat\") %>\n<% tbh.row(\"Prerequisites\", \"None, but Sophomore standing required\") %>\n<% tbh.row(\"Homework\", \"Daily homework assignments; major term project; team assignments.\") %>\n<% tbh.row(\"Credit Hours\", \"Success in this 4 credit hour course is based on the expectation that students will spend a minimum of 9 hours of study time per week in preparation for class (readings, papers, discussion sections, preparation for exams, etc.)\") %>\n<% tbh.row(\"Email contact: \", \"rpsalas@brandeis.edu\") %>\n<%= tbh.render %>\n\n## Course Description\n\n<%= include_topic :cosi102a_syllabus_intro %>\n\n<%= topic_link :cosi102a_specs_grading %>\n\n<%= include_topic :modality_in_person %>\n\n<%= include_topic :syllabus_change_policy %>\n\n<%= include_topic :cosi102r_prereq_credit_hours %> \n\n<%= include_topic :academic_integrity %>\n\n<%= include_topic :class_participation_in_person %>\n\n<%= include_topic :cosi102r_learning_objectives %>\n\n", @item=<Nanoc::Core::CompilationItemView identifier=/content/intro/10_syllabus-web.md.erb>, @rep=<Nanoc::Core::CompilationItemRepView item.identifier=/content/intro/10_syllabus-web.md.erb name=slides>, @item_rep=<Nanoc::Core::CompilationItemRepView item.identifier=/content/intro/10_syllabus-web.md.erb name=slides>, @items=<Nanoc::Core::ItemCollectionWithRepsView>, @layouts=<Nanoc::Core::LayoutCollectionView>, @config=<Nanoc::Core::ConfigView>> (NoMethodError)
+	from item /content/intro/10_syllabus-web.md.erb (rep slides):18:in `get_binding'
 	from /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `eval'
 	from /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `result'
 	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-4.12.16/lib/nanoc/filters/erb.rb:32:in `run'
@@ -27,29 +24,26 @@ RuntimeError: 'cosi102_specs_grading': invalid reference in section "topics"
 
 ===== ITEM BEING COMPILED:
 
-Current item: /content/intro/10_syllabus.md.erb (:slides representation)
+Current item: /content/intro/10_syllabus-web.md.erb (:slides representation)
 
 ===== STACK TRACE:
 
-  0. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/section.rb:22:in `find_by_short_name'
-  1. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/data/toc.rb:52:in `lookup_citem'
-  2. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:31:in `lookup_nitem'
-  3. /opt/homebrew/lib/ruby/gems/3.2.0/gems/coursegen-0.9.21/lib/coursegen/course/helpers/content_helpers.rb:5:in `include_topic'
-  4. item /content/intro/10_syllabus.md.erb (rep slides):32:in `get_binding'
-  5. /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `eval'
-  6. /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `result'
-  7. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-4.12.16/lib/nanoc/filters/erb.rb:32:in `run'
-  8. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/filter.rb:188:in `setup_and_run'
-  9. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/executor.rb:22:in `filter'
-  10. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/recalculate.rb:32:in `block in run'
-  11. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/action_sequence.rb:48:in `each'
-  12. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/action_sequence.rb:48:in `each'
-  13. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/recalculate.rb:29:in `run'
+  0. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/context.rb:47:in `method_missing'
+  1. item /content/intro/10_syllabus-web.md.erb (rep slides):18:in `get_binding'
+  2. /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `eval'
+  3. /opt/homebrew/Cellar/ruby/3.2.2_1/lib/ruby/3.2.0/erb.rb:429:in `result'
+  4. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-4.12.16/lib/nanoc/filters/erb.rb:32:in `run'
+  5. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/filter.rb:188:in `setup_and_run'
+  6. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/executor.rb:22:in `filter'
+  7. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/recalculate.rb:32:in `block in run'
+  8. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/action_sequence.rb:48:in `each'
+  9. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/action_sequence.rb:48:in `each'
+  10. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/recalculate.rb:29:in `run'
+  11. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:23:in `call'
+  12. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:25:in `block in call'
+  13. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/cache.rb:28:in `run'
   14. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:23:in `call'
   15. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:25:in `block in call'
-  16. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/cache.rb:28:in `run'
-  17. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:23:in `call'
-  18. /opt/homebrew/lib/ruby/gems/3.2.0/gems/nanoc-core-4.12.16/lib/nanoc/core/compilation_phases/abstract.rb:25:in `block in call'
 
 ===== VERSION INFORMATION:
 
