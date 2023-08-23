@@ -17,7 +17,6 @@ category: Product Management
 
 * Tour of the course this course web site
 * Tour of Latte
-* Tour of GradeScope
 
 :slide_title This is a Team course
 
@@ -25,12 +24,10 @@ category: Product Management
 * Do this [Simple Questionnaire](https://forms.gle/Dk2PHEp3mLnwno1P7)
 * How will teams get formed and how will they work?
 
+:topic_include :what_102a_is_about
+
 :slide_title Grading
 
-* General information about grading: :topic_link :general_grading_gradescope
-* How grades are computed: :topic_link :cosi102r_grade_components
-* I've not decided yet about midterm and final exams
-
-:topic_include :what_102a_is_about
+:topic_include :cosi102a_specs_cheatsheet
 
 :lecture_end
