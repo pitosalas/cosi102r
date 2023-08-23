@@ -5,6 +5,5 @@ desc: Reference information about the Minimum Viable Product.
 ## Minimum Viable Product
 * There is a lot of information about the MVP on this site
 * This page pulls together links and other content into one place
-* Also look at this summary: <%= link_to_topic :mvp %>
 
-<%= include_topic :mvp_types %>
+:topic_include :mvp_types

@@ -4,14 +4,15 @@ desc: How do we get them, where do they come from?
 slides: true
 category: Product Management
 ---
-:h2 Logistics
+:h3 Logistics
 
 * Any questions or concerns?
-* Product ideas:
-  1. Remember that you need to have a notion of how the business would work
-  1. And in certain cases you need to evaluate the technology risk
-  1. Remember to look for *big pains*!
-  1. To more research, googling, talking to your friends, thinking about your own experiences, family and acquaintances!
+
+:slide_title Product ideas:
+1. Remember that you need to have a notion of how the business would work
+1. And in certain cases you need to evaluate the technology risk
+1. Remember to look for *big pains*!
+1. To more research, googling, talking to your friends, thinking about your own experiences, family and acquaintances!
 
 :slide_title Discussion about Paul Graham's (PG) Article
 
@@ -30,12 +31,14 @@ category: Product Management
 * How about the Unsexy filter?
 * Did this article make you feel more excited about trying entrepreneurship, or more intimidated?
 
-:topic_include :ch1
+:slide_title Build Measure Learn
 
-:topic_include :ch2
+:topic_include :build_measure_learn
 
-:topic_include :ch3
+:slide_title Validated Learning
 
-:slide_bigtitle What do you think of [Blank Street Espresso](https://www.nytimes.com/2022/08/29/dining/blank-street-coffee.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqYhkQFUZCibZXN4mqBLBj_zGxr95nWPkISWJDD1FweoYDs6A50LJL-JFVucE4g66FpVHIaN9A7t71PNeNEhgDAWk8sGOwZleZnpk-Nz2A25s1NfHUOlmtGSyZTnoJrgmmOHl51jOKjW_ANyp2nEjIQlvoZJkZAvqjSROnvGZZ7Yzjtpu3v4hBYR4TCMBZUSJv_rqCxZ5OLaWf02Wq1l2C6wCB2alzZPL4KkAcQ5SFVvNUHt-hG4_49pfM98UV73tBSlKf17pjDNxJvobIJkPIQ&amp;smid=nytcore-ios-share&amp;referringSource=articleShare)
+:slide_bigtitle What do you think of this startup: 
+
+[Blank Street Espresso](https://www.nytimes.com/2022/08/29/dining/blank-street-coffee.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqYhkQFUZCibZXN4mqBLBj_zGxr95nWPkISWJDD1FweoYDs6A50LJL-JFVucE4g66FpVHIaN9A7t71PNeNEhgDAWk8sGOwZleZnpk-Nz2A25s1NfHUOlmtGSyZTnoJrgmmOHl51jOKjW_ANyp2nEjIQlvoZJkZAvqjSROnvGZZ7Yzjtpu3v4hBYR4TCMBZUSJv_rqCxZ5OLaWf02Wq1l2C6wCB2alzZPL4KkAcQ5SFVvNUHt-hG4_49pfM98UV73tBSlKf17pjDNxJvobIJkPIQ&amp;smid=nytcore-ios-share&amp;referringSource=articleShare)
 
 :lecture_end

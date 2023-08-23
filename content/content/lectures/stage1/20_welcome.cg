@@ -5,7 +5,7 @@ slides: true
 category: Product Management
 ---
 
-:slide_title About the course
+:slide_bigtitle About the course
 
 * What is entrepreneurship anyway?
 * "What a computer scientist needs to know to be a Chief Technology Officer"
@@ -25,8 +25,6 @@ category: Product Management
 * How will teams get formed and how will they work?
 
 :topic_include :what_102a_is_about
-
-:slide_title Grading
 
 :topic_include :cosi102a_specs_cheatsheet
 

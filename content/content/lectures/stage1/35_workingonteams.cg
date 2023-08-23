@@ -18,10 +18,10 @@ slides: true
 
 :topic_include :working_in_teams
 
-:slide_title Going deeper
-
 * :topic_link :working_in_teams_key_challenges
 * :topic_link :conflict
 * :topic_link :meetings
+
+:topic_include :cosi102_team_assignments
 
 :lecture_end
