@@ -5,7 +5,7 @@ slides: true
 category: Product Management
 ---
 
-:slide_bigtitle About the course
+:h2 About the course
 
 * What is entrepreneurship anyway?
 * I sometimes describe it as:
@@ -13,7 +13,7 @@ category: Product Management
     * "The biggest pitfall among computer scientists, hackers, and software engineers, is to start building a product before they have a clue if anyone actually wants it."
 * A little about my own path (see :topic_link :pitofaq)
 
-:slide_title Get to know each other -- ask your neigbor
+:slide_title Get to know each other -- ask your neighbor
 
 * I will start
 * What is your name?
@@ -28,6 +28,7 @@ category: Product Management
 * We will analyze the business opportunity and produce and present a business plan
 
 :slide_title To help us form teams
+
 * Tell us about yourselves
 * Do this [Simple Questionnaire](https://forms.gle/Dk2PHEp3mLnwno1P7)
 * How will teams get formed and how will they work?
