@@ -76,7 +76,6 @@ HOME_PAGE = "/content/intro/10_syllabus-web.cg"
 #   %w[HOME /content/index.md]
 #   %w[TOC /content/course_toc.md]
 MENULINKS = [%w[lectures /content/intro/20_coursetoc.md/],
-             %w[gradescope https://www.gradescope.com/courses/558190],
              %w[latte https://moodle2.brandeis.edu/course/view.php?id=30683],
              ["previous years", "https://drive.google.com/drive/u/1/folders/1C8VCqgV4VNxObFn4XuA-ql81HhCEn0f2"]].freeze
 
