@@ -8,12 +8,19 @@ category: Product Management
 
 * Any questions or concerns?
 
-:slide_title Product ideas:
+:slide_bigtitle What do you think of this startup: 
 
-1. Remember that you need to have a notion of how the business would work
-1. And in certain cases you need to evaluate the technology risk
-1. Remember to look for *big pains*!
-1. To more research, googling, talking to your friends, thinking about your own experiences, family and acquaintances!
+<a href="/content/topics/documents/bankstreetcoffee.pdf">
+<img src="/content/topics/images/blankstreet.jpg" alt="Blank Street Expresso" width="500" />
+</a>
+
+:slide_title We are talking about IDEAS!
+
+* Remember that you need to have a notion of how the business would work
+* And in certain cases you need to evaluate the technology risk
+* Remember to look for *big pains*!
+* To more research, googling, talking to your friends, thinking about your own experiences, family and acquaintances!
+* Did you read the article on Paul Graham's website? 
 
 :slide_bigtitle Discussion about Paul Graham's (PG) Article
 
@@ -35,9 +42,5 @@ category: Product Management
 :slide_bigtitle Build Measure Learn
 
 :topic_include :build_measure_learn
-
-:slide_bigtitle What do you think of this startup: 
-
-[Blank Street Espresso](/content/topics/documents/bankstreetcoffee.pdf)
 
 :lecture_end
