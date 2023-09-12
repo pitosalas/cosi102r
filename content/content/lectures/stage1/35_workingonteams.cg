@@ -8,8 +8,6 @@ slides: true
 
 * Your product idea is not your final product idea!
 * Teams and adds and drops.
-* Gradescope problems, anyone?
-* How grading works and will work
 * Take a look at :topic_link :hw_102_proj_stage1
 
 :slide_bigtitle Working On Teams
@@ -18,6 +16,7 @@ slides: true
 
 :topic_include :working_in_teams
 
+:h3 Some related topics 
 * :topic_link :working_in_teams_key_challenges
 * :topic_link :conflict
 * :topic_link :meetings

@@ -1,4 +1,4 @@
-Crashlog created at 2023-09-04 20:29:37 -0400
+Crashlog created at 2023-09-11 20:59:56 -0400
 
 ===== MESSAGE:
 
@@ -31,7 +31,7 @@ NoMethodError: undefined method `binary?' for nil:NilClass
 
 ===== ITEM BEING COMPILED:
 
-Current item: /content/topics/leanstartup/ls_mvp.cg (:default representation)
+Current item: /content/lectures/stage1/50_mvp_class.cg (:slides representation)
 
 ===== STACK TRACE:
 
