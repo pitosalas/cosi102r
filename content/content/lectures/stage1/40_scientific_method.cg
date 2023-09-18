@@ -4,11 +4,14 @@ desc: How LS approaches experimentation and testing
 cat: Product Management
 slides: true
 ---
-:h2 Speaker!
-
-:image :christianfernandez
+:h2 Logistics
+* Speaker today at 11:50am
 
 :topic_include :ls_hypotheses
 :topic_include :ls_outofbuilding
+
+:slide_bigtitle Speaker
+
+:image :christianfernandez
 
 :lecture_end
