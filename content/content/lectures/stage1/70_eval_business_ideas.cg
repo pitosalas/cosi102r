@@ -7,6 +7,13 @@ cat: Product Management
 :h3 Logistics
 * Teams please sit together
 
+:topic_include :mvp_summary
+
+:topic_include :mvp_taxonomy
+
+:topic_include :choose_product
+
+
 :topic_include :entrep_critical_thinking
 
 :slide_bigtitle MVP Discussion
