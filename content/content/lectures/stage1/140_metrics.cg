@@ -6,6 +6,7 @@ slides: true
 :h3 Logistics
 
 * :section_link :lectures, :in_class_quiz on October 20
+:callout :small, "update on tokens", ""Each student gets 5 tokens at the start of the semester. A token can be used to request resubmit any PA, Individual, Team or Quiz (not for reflections). You may request a resubmit within 1 day of receiving the grade, to extend the deadline by 5 calendar days after requesting the resubmit, without distinctions for holidays or weekends. (Maybe additional uses)""
 
 :topic_include :funnel
 
