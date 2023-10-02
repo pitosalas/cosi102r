@@ -3,10 +3,8 @@ title: The Engine of Growth
 desc: A key concept that is sometimes hard to really understand
 slides: true
 ---
-:h2 Logistics
-* Attendance
-
-:topic_include :ch10
+:slide_bigtitle Speaker: Fiza Shaukat
+:image :450, :fizashaukat
 
 :topic_include :engine_of_growth_intro
 

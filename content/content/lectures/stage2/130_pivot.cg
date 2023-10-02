@@ -11,11 +11,7 @@ slides: true
 * Simulations are by definition simplified models of the real thing
 * We are covering concepts and methodologies beyond what can be practiced with your project
 
-:topic_include :ch7
-
-:topic_include :ch8
-
-:slide_bigtitle More About Pivots
+:slide_bigtitle All About Pivots
 
 :topic_include :pivot_intro
 
