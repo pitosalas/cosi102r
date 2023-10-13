@@ -3,25 +3,38 @@ title: The Pivot
 desc: What's a pivot and why to pivot
 slides: true
 ---
-:h2 Logistics
 
-* Does every team know their TA partner
-    * Review role of TA partner
-* Your term project is a simulation of a startup
-    * Simulations are by definition simplified models of the real thing
-    * We are covering concepts and methodologies beyond what can be practiced with your project
-* A word in class discussions
-    * Why do we have class discussions?
-    * Critical analysis and communication
-    * Speaking clearly so other can hear
-    * Listening because insights come from other students
+:h2 Speak and Listen
+* When someone in class is speaking, listen to them
+* Learn from each others's questions and insights
+* Speak clearly (and loud enough) so others can hear
+* It is a form of *participation*
 
 :slide_bigtitle All About Pivots
 
 :topic_include :pivot_intro
 
+:topic_include :pivot_types
+
 :topic_include :pivot_measurement
 
-:topic_include :pivot_types
+:slide_bigtitle In class discussion - Objective
+
+* Make these concepts clearer by discussing and applying them with your team
+* Peer feedback: Get feedback and new ideas from outside your team
+
+:slide_title Questions to consider
+
+1. Summarize again what your product or business is. What pain is it solving and how. Who is your customer?
+1. Discuss and identify the stages of your funnel and the one that is the most critical to your success.
+1. Discuss and identify a pivot that you could easily see being required and why
+1. Discuss and identify a way that you would be able to test whether that pivot would be required
+
+:slide_title Padlet
+
+* Make notes about these questions and any other [outcomes on this padlet](https://padlet.com/pitosalas/software-entrepreneurship-m143ffdbefea5ptr). 
+* Start by changing the name of your column to your product name!
+* Discuss these questsions and others with your teammates (20 minutes or so)
+* Pair up with another team and look at their padlet and give them feedback (10 minutes or so)
 
 :lecture_end
