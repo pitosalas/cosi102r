@@ -3,26 +3,75 @@ title: Review!
 desc: Look at what we've learned so far
 slides: true
 ---
-:h2 Logistics
+:h2 What do you think of this
 
-* What to do with the feedback. Pivot or not?
-* Did anyone go to Gidi's talk yesterday? What matched and what didn't?
-* In order to understand the ramifications of your idea, think through a detailed scenario or story
-* I sometimes think of it as a tv show screenplay
-* A  new kind of hypothesis: Do the numbers add up?
-* Attendance
+:callout :small, "discuss", "Please interpret each quadrant and how it relates"
+
+:image :shouldi
+
+:slide_title Logistics 
+
+* Quiz is on Friday. 
+* Quiz will be on the concepts we have covered so far
+* Today is quiz prep.
+* I recommend studying in study groups
+* Questions will be definitional and also ask for reasoning beyond
 
 :slide_bigtitle Pre/Re-View Lean Startup Concepts
-
-* Some of these concepts are new to you
-* To help you understand them I will be going through the definitions more than once!
-* These are the kinds of questions that we would have on a midterm
-* Not sure yet whether we will have a midterm
-* Sit with your team
-* You will be called at random to answer some questions
 
 :topic_include :ls_summary_questions_proj_1
 
 :topic_include :ls_summary_questions_proj_2
+
+:slide_bigtitle About the quiz
+
+* Based on experience so far, the grade rubric will become more lenient
+* I will share it on Tuesday of next week
+* The quiz will be in person, during class, on paper, in a bluebook
+* We will have arrangements for accomodation students
+* The quiz will go for 40 minutes 
+* Please show up in class in person with pen. I will supply bluebooks
+
+:slide_bigtitle Practice questions
+
+* Are representative of what will be on the quiz
+* May be there, as-is, or modified]
+
+:slide_title Scenario
+
+I've measured three metrics for my subscription which covers Unity Gaming in detai. I publish once a week. I charge $10.00 per month or $50 for a year. So far I have measured the following during July, August and Septemeber. They are:
+
+* July: 
+    * 900 Subscribers
+    * 50 new Subscribers
+    * 40 non renewals
+* August: 
+    * 910 Subscribers
+    * 100 new subscrivers
+    * 90 non renewals
+* September: 
+    * 920 Subscribers
+    * 90 new subscribers
+    * 80 non renewals
+
+:slide_title Questions all about the above scenario
+
+* Work on this interactively with your neighbor. Learn from, each other!
+
+
+1. In this example, What is the churn rate for July?
+1. Continuing the same example, What engine of growth am I using?
+1. Which of those metrics are vanity and which ones are actionable?
+1. Suggest two actions that you can take to improve your growth. Briefly explain why those two and what they would be.
+1. Propose 2 hypotheses for the following problem: "I want to increase the number of subscribers to my newsletter"
+1. What is the MVP that you would use to test your hypothesis?
+1. What is the metric that you would use to measure the success of your MVP?
+
+### Review the answers
+
+
+
+:slide_title Extra
+* Please take a few minutes reviewing [this article about the Shortwave email client](https://artifact.news/posts/p/603725691998448031?s=1615496933816564903).
 
 :lecture_end
