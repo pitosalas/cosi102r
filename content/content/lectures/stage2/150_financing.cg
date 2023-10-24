@@ -1,11 +1,8 @@
 ---
-title: Startup startup_funding
+title: Startup Funding
 desc: Where does the money come from? How does Venture Capital, Angel Investment, etc work?"
 slides: true
 ---
-:h3 Logistics
-* Let me know if you'd like an extension on an assignment and I will consider it.
-
 :topic_include :startup_funding
 
 :slide_title Key Requirements
