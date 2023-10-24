@@ -3,9 +3,7 @@ title: Spreadsheet Basics
 desc: The limitless power of spreadsheets 
 slides: true
 ---
-:h3 Logistics
-
-* Attendance
+:image
 
 :slide_title When is a spreadsheet the right tool?
 
@@ -30,6 +28,7 @@ slides: true
 * =vlookup
 * =query
 * Pivot tables
+
 
 :lecture_end
 
