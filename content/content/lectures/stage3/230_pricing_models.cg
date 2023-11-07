@@ -9,10 +9,6 @@ slides: true
 <img src="http://www.newyorker.com/wp-content/uploads/2015/12/151207_a19651-600.jpg" style="width: 500px;"/>
 <div style="width: 800px; text-align: center; font-size: 120%; font-style: italic;">"The coffee is free, but now we rent the tables."</div>
 </div>
-<slide_break></slide_break>
-
-* :topic_link :model_lemonade_stand_exercise
-* :topic_link :pricing_model_exercise
 
 :slide_title What makes a "good" pricing model?
 
@@ -43,7 +39,7 @@ slides: true
   1. How often are they willing to pay for it?
   1. Is your pricing model *logical* or *reasonable*?
 
-:callout :small, "Why is this? Does it make sense?", "The price of this steak is ridiculous! $42 for 12oz of Filet Mignon? My butcher charges me $12 per pound. What a ripoff!"
+:callout :small, "Why is this? Does it make sense?", " The price of this steak is ridiculous! $42 for 12oz of Filet Mignon? My butcher charges me $12 per pound. What a ripoff!"
 
 :topic_include :pricing_model_exercise
 
