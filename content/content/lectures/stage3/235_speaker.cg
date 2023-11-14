@@ -1,5 +1,5 @@
 ---
-title: Intellectual Property
+title: Speaker
 desc: Patents, Licenses and Secrecy
 slides: true
 ---
@@ -14,15 +14,5 @@ slides: true
 * Here is an [example worksheet for tracking hypotheses](https://docs.google.com/spreadsheets/d/1lPW_oRsYXI3uTnGKsHczXgKRXXKA2O3UFRYk2IbJmxY/edit?usp=sharing) 
 * For at least one of your MVPs you will create a mockup or prototype
 * You need to be actually going out and talking to people!
-
-:topic_include :ip
-
-:topic_include :ip_definitions
-
-:topic_include :ip_exercise
-
-:topic_include :ip_additional_topics
-
-:topic_include :company_founding_scenario
 
 :lecture_end
