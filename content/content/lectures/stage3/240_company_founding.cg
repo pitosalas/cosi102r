@@ -3,16 +3,26 @@ title: Founding a company
 desc: How does a company get founded?
 slides: true
 ---
-:h3 Logistics
-* Attendance
+:h2 Presentation Run Throughs
 
-:slide_bigtitle PR!
+* Check out work :topic_link :hw_102_presentation_runthrough
 
+:h2 Memory Lane: eRoom Technology - 1995-2002
+
+* Here's the :topic_link :eroom_story
 * [TV Report about eRoom back in the day](https://vimeo.com/477587256)
 * [Another one](https://vimeo.com/477587464)
 
-:slide_bigtitle Basics
+:slide_bigtitle Starting a company
 
 :topic_include :starting_company
+
+:slide_title Practical Issues for startups
+
+* Stealth mode: Pros and Cons
+* How do you get customer feedback if you can't tell anyone?
+* Who owns the IP, individuals or the startup?
+
+:topic_include :company_founding_scenario
 
 :lecture_end

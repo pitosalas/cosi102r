@@ -15,6 +15,4 @@ slides: true
 
 :topic_include :ip_additional_topics
 
-:topic_include :company_founding_scenario
-
 :lecture_end
