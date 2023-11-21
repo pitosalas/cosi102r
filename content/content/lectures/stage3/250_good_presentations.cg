@@ -1,14 +1,34 @@
 ---
-title: Pitch Presentations
+title: Presentation Dry Runs
 desc: How to design and approach the Presentations
 slides: true
 ---
-:h3 Logistics
-* Attendance
+### Logistics
 
-* Review the remaining weeks
+Hey where is everyone?
+
+:slide_bigtitle Dry Runs
+
+* Next week (12/1 and 12/5) we will have dry runs of your final presentations
+* Today we will talk about good presentation practices
+* Some will relate to presenting and others to preparing
+
+:slide_title How this fits with final deliverables
+
+* The slides your team presents during the dry run should be very close to what you hand in.
+* Final deliverables will be due on the last day of class (12/8) (see :topic_link :cosi102a_final_deliverables_manifest)
+
+:slide_title Mechanics (tentative, your input invited)
+
+* Each day four teams present. The other four teams are peer reviewers.
+* Each team presents to their counterpart team, 10 minutes
+* There is a discussion where the peer reviewer gives the team useful feedback
+* Each peer team submits their feedback to Latte
+* At the 40 minute mark we reconvene with the whole class
+* The peer reviewing teams award ribbons: #1: Blue, #2: Red, #3: Yellow, #4 White
 
 :topic_include :cosi102a_presentation_content_tips
+
 :topic_include :presentation_hints_general
 
 :lecture_end
