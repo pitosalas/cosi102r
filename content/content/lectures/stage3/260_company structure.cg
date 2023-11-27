@@ -3,33 +3,149 @@ title: Constructing a company
 desc: Organizational, management, process, productivity and more 
 slides: true
 ---
-:h3 Welcome!
+:h3 Logistics
 
-:slide_bigtitle How are software companies organized?
+* Note that we have lost one of our two dry run classes (Classes on Dec 5th are cancelled)
+* I will cover many aspects of how companies in our world work
 
-:slide_title Titles and roles, and what they mean
+:slide_title New Dry Run Mechanics
 
-:slide_bigtitle How do development teams work?
+* Because we have 8 projects and 80 minutes we have to split up
+* We will split into two groups, 4 projects each
+* I have a second room for the second group
 
-:slide_title What does a typical day look like?
+:slide_bigtitle How the software world works
 
-:slide_title Develoment vs. QA vs. Devops
+* Goal for today: Answer your questions about how a real business works
+* Ask questions and feel free to take the discusiosn in different directions
+* Very practical and actionable information
 
-:slide_bigtitle How are they built?
+:slide_title Focus
+
+* Focus specifically on "tech" companies
+* Companies where computers are core to the business
+* Large vs Small Companies
+* Overall company structure, departments, leadership and titles
+* Software Developer vs. Product Manager vs. Other Roles
+* When things go wrong
+
+:slide_bigtitle Types of Companies
+
+:slide_title Large company (1000+)
+
+* Offers a ton of projects; Variety of passions/projects, more opportunities
+* More formality takes longer to get things done
+* Fewer interactions outside of department (less personal)
+* More processes and policitcs
+* Can get laid off out of nowhere - less connection between you and your job security
+* Less scrutiny on each individual employee
+
+:slide_title Small companies (100-)
+
+* Get involved in a lot of projects very easily = more impact
+* No process, take initiative to get things done (fix your own problems)
+* Very focused; Lives & breathes the one project - not good if you want to experience more than one type of thing
+* Earlier in your life, it is easier to take risk
+* No room/limited room for mistakes (Spotlight)
+* Easy access to higher-ups
+* Company depends more on you
+
+:slide_title Differences
+
+* Differences: more beaurocracy and processes in large companies, whereas small companies demand more self-reliance and are more focused
+* Don't assume that any job will be secure/last forever
+* Can be a financial issue but also means that you aren't stuck in a job for life
+* Find out about the runway for startups
+* May be easier to get a job if willing to move to an area with fewer people with your skill set
+
+:slide_title What's a "Lifestyle Business"
+
+* Doesn't grow (not designed to grow exponentially)
+* Gives a decent, liveable salary--supports the lifestyle its employees want to maintain
+* The lack of prospective growth can hurt the attitude of employees 
+* Sometimes used pejoratively but can be an excellent option
+
+:slide_title Contractor vs. Consultant
+
+* Mostly the same, self employed and not working directly as an employee
+* more of how you want to position yourself
+* Implication of contractor - do a lot of work quickly for the compnay
+* Consultant- more of an advising position
+* Consultant would work with the company, contractor for it.
+
+:slide_bigtitle Nuts and Bolts
+
+:slide_title Titles and roles
+
+* Development or engineering
+* Quality Assurance or testing
+* Product Management
+* Sales and Business Development
+* Marketing
+* Finance
+* Human Resources
+
 
 :slide_title Hiring and firing
 
-:slide_title Hardware, software and tools
+* Almost always, in the US, it's "employment at will"
+* In other countries there are more typically employment contracts
+* At Will means that (legally) you can quit whenever you want and you can be let go whenever they want
+* In practice there is an expectation of a period of "notice" of 2-4 weels
+* Reputation and professional considerations come into play
 
-:slide_bigtitle What does the evolution of a software company look like?
+:slide_title Taxes and Benefits
 
-:slide_title Typical stages and their characteristics
+* Some companies withhold taxes automatically
+* 401K- deposits are not taxed
+* Some companies match a portion of salary
+* "5% match" - they will match up to 5% of your income
 
-* Initial founders (between 1 and ~5)
-* Founding team (between ~5 and ~20)
-* Very young
-* Young
-* No longer a startup
+:slide_title Stock purchase plans
+
+* Usually stock options and not actual stock
+* Vesting - you can buy stock but you cannot get it unless you work at the company for x amount of time
+* Significance of each benefit depends on person
+
+:slide_title What is a software development process?
+
+* How specifications are gathered from customers and stake holders
+* Where and whether and how they are written down
+* How careful and rigorous the scheduling is
+* How large or small teams are
+* The role of a team lead vs. development manager
+* Care put into scheduling
+* Coding standards, standarized tools
+
+:slide_title What are some software development Processes?
+
+* The software process for a cool mobile app vs. for a product deployed to millions vs. a product on which lives depend
+* Two extremes: Waterfall model and Agile model
+* Even those two categories oversimplify things
+
+:slide_title What does a developer's typical day look like?
+
+* In addition to programming: design, testing, deploying, learning, discussing, arguing
+* A lot more interaction with others than you might think
+* Depends on the experience level of the developer
+
+:slide_title What does a product manager's typical day look like?
+
+* On the crossroads between development, marketing, sales and CEO
+* Best ones have a strong technical background but also excellent reapport skills
+
+:slide_title What does a tester (or QA person's typical day look like?
+
+* Some companies don't have separate testers, developers do the testing
+* A lot more reliance on test automation
+* Some kinds of tests can only be done by hand
+* Testers need to be fully qualified developers
+
+:slide_title Conclusion
+
+* Better sense of the way a real company is put together
+* What your role within it might be
+* What to expect when you join
 
 :lecture_end
 
