@@ -5,26 +5,32 @@ slides: true
 ---
 :h3 Logistics
 
-* Note that we have lost one of our two dry run classes (Classes on Dec 5th are cancelled)
-* I will cover many aspects of how companies in our world work
+* Note that we have lost one of our two dry run classes
+* Classes on Dec 5th are cancelled
 
-:slide_title New Dry Run Mechanics
+:slide_title New Dry Run Mechanics for Dec 1
 
 * Because we have 8 projects and 80 minutes we have to split up
 * We will split into two groups, 4 projects each
-* I have a second room for the second group
+* Each 4 will present to each other with their counterparts taking notes and giving feednack
+* Pito and two TAs will also be present
+* This plan may still change.
+
 
 :slide_bigtitle How the software world works
 
 * Goal for today: Answer your questions about how a real business works
-* Ask questions and feel free to take the discusiosn in different directions
+* Important things to understand as a Software Entrepreneur
+* ... as well as someone thinking about their carreer
 * Very practical and actionable information
+
+:callout :big, "ASK", "Ask questions and feel free to take the discussion in different directions"
 
 :slide_title Focus
 
 * Focus specifically on "tech" companies
 * Companies where computers are core to the business
-* Large vs Small Companies
+* How are Large Companies different from Small Companies?
 * Overall company structure, departments, leadership and titles
 * Software Developer vs. Product Manager vs. Other Roles
 * When things go wrong
@@ -33,49 +39,63 @@ slides: true
 
 :slide_title Large company (1000+)
 
-* Offers a ton of projects; Variety of passions/projects, more opportunities
-* More formality takes longer to get things done
-* Fewer interactions outside of department (less personal)
-* More processes and policitcs
-* Can get laid off out of nowhere - less connection between you and your job security
-* Less scrutiny on each individual employee
+#### PRO
+* Well known: "Where do you work"?
+* Usually have many product/services
+* Provides mobility, interest and opportunities (e.g)
+* Better pay, possibly more comprehensive benefgits
+
+#### CON
+* More processes and politics: takes longer to get things done
+* Little connection with senior leaders
+* Less control over your own fate (see sudden layoffs)
+* You may need to accept an offer without knowing exactly what the job will be
+
+:discussion "Is Google medium, large, or massive? Is Brandeis small, medium or large"
 
 :slide_title Small companies (100-)
 
-* Get involved in a lot of projects very easily = more impact
-* No process, take initiative to get things done (fix your own problems)
-* Very focused; Lives & breathes the one project - not good if you want to experience more than one type of thing
-* Earlier in your life, it is easier to take risk
-* No room/limited room for mistakes (Spotlight)
-* Easy access to higher-ups
+#### PRO
+
+* Very focused
+* More transparency. Connection to senior leaders.
+* Less or no process, take initiative to get things done (fix your own problems)
+* Company lives & breathes the one project - not good if you want to experience more than one type of thing
 * Company depends more on you
 
-:slide_title Differences
+#### CONS
 
-* Differences: more beaurocracy and processes in large companies, whereas small companies demand more self-reliance and are more focused
-* Don't assume that any job will be secure/last forever
-* Can be a financial issue but also means that you aren't stuck in a job for life
-* Find out about the runway for startups
-* May be easier to get a job if willing to move to an area with fewer people with your skill set
+* Not well known: "Where do you work???"
+* Less variety of work, technologies, people
+* Less room for major mistakes (nowhere to hide)
 
-:slide_title What's a "Lifestyle Business"
+:discussion "Have you thought about this? What do you hear?"
+
+:slide_title Comments
+
+* Don't assume that any job will last forever
+* Or that you won't have multiple jobs during your career
+* Work Life Balance anyone?
+
+:slide_title Aside: What's a "Lifestyle Business"
 
 * Doesn't grow (not designed to grow exponentially)
-* Gives a decent, liveable salary--supports the lifestyle its employees want to maintain
-* The lack of prospective growth can hurt the attitude of employees 
+* Gives a decent, liveable salary for a small number of workers
+* Supports the lifestyle its employees want to maintain
 * Sometimes used pejoratively but can be an excellent option
 
 :slide_title Contractor vs. Consultant
 
 * Mostly the same, self employed and not working directly as an employee
-* more of how you want to position yourself
 * Implication of contractor - do a lot of work quickly for the compnay
 * Consultant- more of an advising position
-* Consultant would work with the company, contractor for it.
 
 :slide_bigtitle Nuts and Bolts
 
-:slide_title Titles and roles
+
+:image :700, :orgcharts
+
+:slide_title Typical Departments in a Tech Company
 
 * Development or engineering
 * Quality Assurance or testing
@@ -85,6 +105,11 @@ slides: true
 * Finance
 * Human Resources
 
+:slide_title Org Chart
+
+* C-Suite: CEO, CTO, CMO, COO, CxO
+* What's an Executive? CxOs, VPs
+* But like grades, there is title creep
 
 :slide_title Hiring and firing
 
