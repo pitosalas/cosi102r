@@ -92,7 +92,6 @@ slides: true
 
 :slide_bigtitle Nuts and Bolts
 
-
 :image :700, :orgcharts
 
 :slide_title Typical Departments in a Tech Company
@@ -100,8 +99,9 @@ slides: true
 * Development or engineering
 * Quality Assurance or testing
 * Product Management
-* Sales and Business Development
+* Sales
 * Marketing
+* Business Development
 * Finance
 * Human Resources
 
@@ -119,6 +119,16 @@ slides: true
 * In practice there is an expectation of a period of "notice" of 2-4 weels
 * Reputation and professional considerations come into play
 
+:slide_title Non Competes and NDAs
+* You will likely be asked to sign one of the two or both
+* Non-Compete is a promise that when you leave the company you will not work for a competitor
+* What's a competitor? Definition is important if  not crucial
+* How long is it in force?
+* Is it actually enforcable?
+* Non Disclosure Agreements are a promise that you will not reveal trade secret to anyone
+* Usually as part of talking to another company
+
+
 :slide_title Taxes and Benefits
 
 * Some companies withhold taxes automatically
@@ -132,7 +142,7 @@ slides: true
 * Vesting - you can buy stock but you cannot get it unless you work at the company for x amount of time
 * Significance of each benefit depends on person
 
-:slide_title What is a software development process?
+:slide_bigtitle What is a software development process?
 
 * How specifications are gathered from customers and stake holders
 * Where and whether and how they are written down
@@ -146,21 +156,26 @@ slides: true
 
 * The software process for a cool mobile app vs. for a product deployed to millions vs. a product on which lives depend
 * Two extremes: Waterfall model and Agile model
-* Even those two categories oversimplify things
+* Even those two categories oversimplify things quite a lot
 
 :slide_title What does a developer's typical day look like?
 
-* In addition to programming: design, testing, deploying, learning, discussing, arguing
+* A developer (of software engineer) writes code but...
+* In addition: design, testing, deploying, learning, discussing, arguing
 * A lot more interaction with others than you might think
 * Depends on the experience level of the developer
+* A lot more variety than people think
 
 :slide_title What does a product manager's typical day look like?
 
+* They map customer requiremetns to product requirements
+* They are the ones who "go outside the building" usually
 * On the crossroads between development, marketing, sales and CEO
 * Best ones have a strong technical background but also excellent reapport skills
 
 :slide_title What does a tester (or QA person's typical day look like?
 
+* They ensure that the product works according to the spec (if there is a spec :)
 * Some companies don't have separate testers, developers do the testing
 * A lot more reliance on test automation
 * Some kinds of tests can only be done by hand
