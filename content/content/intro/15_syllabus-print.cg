@@ -17,11 +17,13 @@ desc: Formatted for Printing
 
 ## Course Description
 
-:topic_include :cosi102a_syllabus_intro
+:topic_include :cosi102a_course_welcome
 
-:topic_include :cosi102a_specs_grading
+:topic_include :cosi102r_learning_objectives2
 
-:topic_include :modality_in_person
+:topic_include :general_grading
+
+:topic_include :cosi102a_grading
 
 :topic_include :syllabus_change_policy
 
@@ -31,7 +33,7 @@ desc: Formatted for Printing
 
 :topic_include :class_participation_in_person
 
-:topic_link :syllabus_accommodations
+:topic_include :accomodations
 
-:topic_include :cosi102r_learning_objectives
+:topic_include :modality_in_person
 
