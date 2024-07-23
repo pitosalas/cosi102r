@@ -3,12 +3,6 @@ title: Review!
 desc: Look at what we've learned so far
 slides: true
 ---
-:h2 What do you think of this
-
-:callout :small, "discuss", "Please interpret each quadrant and how it relates"
-
-:image :shouldi
-
 :slide_title Logistics 
 
 * Quiz is on Friday. 
@@ -59,12 +53,12 @@ I have been publishing a newsletter covering Gaming and the Unity Ecosystem in d
 * Work on this interactively with your neighbor. Learn from, each other!
 
 1. In this example, What is the churn rate for July?
-1. Continuing the same example, What engine of growth am I using?
-1. Which of those metrics are vanity and which ones are actionable?
-1. Suggest two actions that you can take to improve your growth. Briefly explain why those two and what they would be.
-1. Propose 2 hypotheses for the following problem: "I want to increase the number of subscribers to my newsletter"
-1. What is the MVP that you would use to test your hypothesis?
-1. What is the metric that you would use to measure the success of your MVP?
+2. Continuing the same example, What engine of growth am I using?
+3. Which of those metrics are vanity and which ones are actionable?
+4. Suggest two actions that you can take to improve your growth. Briefly explain why those two and what they would be.
+5. Propose 2 hypotheses for the following problem: "I want to increase the number of subscribers to my newsletter"
+6. What is the MVP that you would use to test your hypothesis?
+7. What is the metric that you would use to measure the success of your MVP?
 
 ### Review the answers
 
