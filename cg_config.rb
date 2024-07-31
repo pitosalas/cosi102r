@@ -67,7 +67,7 @@ SITE_URL = "http://cosi102r.s3-website-us-east-1.amazonaws.com"
 # This is usually /content/index.md.erb.
 #
 # Note: the .erb suffix is required when setting the HOME_PAGE path.
-HOME_PAGE = "/content/intro/10_syllabus-web.cg"
+HOME_PAGE = "/content/intro/15_syllabus-print.cg"
 
 # Menulinks defines the links on the navigation bar.
 # They are formatted as "Name" - "URL" pair.

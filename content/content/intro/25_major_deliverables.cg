@@ -1,14 +1,64 @@
 ---
-title: Major Deliverables
+title: Major Deliverables (2024)
+slides: true
 ---
-## Term Project Stage Reports
+:slide_bigtitle Term Project
 
-As you know a major part of the assessment for this course is the final project. You will develop it in three stages with your team. Each stage has a standalone report. The final report is the combination of the three stage reports.
+Students will be organized into teams of three. No more and no less. They will organize themselves into a team and work together on the term project for the whole semester. There will be detailed guidance on how to conduct the team projects. They will together lead to a set of deliverables.
 
-### Stage and final Reports
+:slide_title Organization
 
-* :topic_link :hw_102_proj_stage1
-* :topic_link :hw_102_proj_stage2
-* :topic_link :hw_102_proj_stage3
+At some point early in the term project the teammates will decide among themselves who will lead each of the three major parts of the project: Customer Discovery, Business Case and Offering. Each student will be responsible for writing the corresponding paper, and the students together will write the project summary paper. The descriptions below will use terminology and buzzwords which you will learn about during the course. 
 
-:topic_include :cosi102a_final_deliverables_manifest
+Below you will find general specifications as well as what should be in each paper. Even though the guidelines are bullets, the paper itself is narrative, a well written document or report.
+
+### Specifications
+
+* Each paper will stand on its own, written by one student with consultation and review by the other two
+* Each paper will have a logical flow, with a brief introduction and conclusion (and without a title page)
+* Each paper will be between 4 and 6 pages.
+* All four papers will have a consistent look in terms of fonts, titles, sections
+* The summary paper will be written last
+
+:slide_bigtitle Paper Specifics
+
+:slide_title Executive Summary Paper
+
+This paper is written by the team and mostly towards the end. It summarizes the conclusions and highlights key points of the individual papers.
+
+* Summary of product or service
+* Summary of target customer
+* Summary of competition
+* Summary of pricing and business model
+* Key milestones going fowward
+* Financing to get to the first milestone and deliverables
+* Retrospective: what went well, what less well, and recommended next steps
+
+:slide_title Customer Discovery Paper
+
+This paper is all about how the product idea(s) were tested against potential customers. What hypotheses were formed and how they were tested.
+
+* hypotheses, types, how they were tested and what the results were
+* out of the building work, who you talked to and what you learned
+* problem being solved and why it is super important to solve it
+* discussion of value proposition, how it was tested and what conclusions there are
+
+:slide_title Business Case Paper
+
+This paper is about the business side. It will look at competitors, pricing, business model and overall financial plan.
+
+* description of customers
+* competitors
+* pricing options and approaches
+* financial model including spreadsheet and graphs
+
+:slide_title Offering Description Paper
+
+This paper is about the actual product or service.
+
+* What does the product do
+* Screenshots or other visuals of user experience
+* Key Features and how they address the value proposition
+
+
+
