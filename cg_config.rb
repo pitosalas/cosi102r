@@ -92,22 +92,6 @@ STYLING_CONFIG = {
   bullet_style: '"font-size: 60%; width: 10px; color: grey"'
 }.freeze
 
-# SEARCH
-#
-# Coursegen uses DocSearch by Algolia (https://docsearch.algolia.com/) to
-# provide site-wide full-text search functionality.
-#
-# In order for search to function, you need to replace with your own
-# search API key, and name of your index from Algolia.
-# For details, please refer to https://github.com/pitosalas/coursegen/blob/master/README.md.
-SEARCH_CONFIG = {
-  api_key: '9465f5fc3cc6763f0332e5dca6d3cd50',
-  index_name: 'cosi102r-s3',
-  # APP_ID is only used if you are running DocSearch on your own.
-  app_id: '3XX6YC62TS',
-  debug: false
-}.freeze
-
 # SLIDES
 SLIDES_CONFIG = {
   # Ignore_selectors ignore certain html elements from rendering in the slides.
