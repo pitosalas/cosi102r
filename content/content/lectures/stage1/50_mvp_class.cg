@@ -4,15 +4,9 @@ desc: What is an MVP and its role in the Lean Startup
 cat: Product Management
 slides: true
 ---
-**READING: LS 6**
 
-:h2 Logistics
-
-* It is required to have a meeting with them as a team at least once every other week. We will track this.
-* Here are the TA partners.
-* Any questions about anything, assignments, grades, gradescope, tools, OH?
-* Remember/Remember/Remember: We are analyzing a *business* from product/market fit, to pricing and financing, to feature set. *We are not asking you to actually build a product*
-* You are invited (but not required) [to book a meeting with me](https://calendly.com/pitosalas/15mins) to discuss your product
+:topic_include :ch6
+:topic_include :ch7
 
 :slide_bigtitle Case Study
 
@@ -20,7 +14,6 @@ slides: true
 * Lets look at a few from last year
 * Lets review the stages of the project
 
-:slide_bigtitle In Class Team Meetings for remaining time
 
 :lecture_end
 
