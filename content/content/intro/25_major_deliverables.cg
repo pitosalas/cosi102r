@@ -12,17 +12,7 @@ At some point early in the term project the teammates will decide among themselv
 
 Below you will find general specifications as well as what should be in each paper. Even though the guidelines are bullets, the paper itself is narrative, a well written document or report.
 
-:slide_title Stages
-
-Work on these deliverables will be done in three phases, each assigned in Latte:
-
-* :topic_link :hw_102_proj_stage1_new
-* :topic_link :hw_102_proj_stage2_new
-* :topic_link :hw_102_proj_stage3_new
-
-At each stage, each student will submit the current draft of their paper up to that point. You will receive feedback and a grade for each one. The draft grade will be considered only as participation.
-
-:slide_title Specifications
+:slide_title Specifications for all the papers
 
 * Each paper will stand on its own, written by one student with consultation and review by the other two
 * Each paper will have a logical flow, with a brief introduction and conclusion (and without a title page)
@@ -32,46 +22,21 @@ At each stage, each student will submit the current draft of their paper up to t
 
 :slide_bigtitle Paper Specifics and suggested outlines
 
-:slide_title Executive Summary Paper
+The following are individual specifications, tips, outlines for each of the four papers
 
-This paper is written by the team and mostly towards the end. It summarizes the conclusions and highlights key points of the individual papers.
+* :topic_link :hw_102_final_exec_summary
+* :topic_link :hw_102_final_cust_disc
+* :topic_link :hw_102_final_biz_case
+* :topic_link :hw_102_final_offering
 
-* Summary of product or service
-* Summary of target customer
-* Summary of competition
-* Summary of pricing and business model
-* If the project was to continue, what are key milestones going forward 
-* Financing requiredto get to the first milestone and deliverables
-* Retrospective: what went well, what less well, and recommended next steps
-* Link to trello (which includes both to-do and meeting summaries)
+:slide_title Stages
 
-:slide_title Customer Discovery Paper
+Work on these deliverables will be done in three phases. THe following link lay out the work to be done in each phase. They will appear as homeworks in Latte.
 
-This paper is all about how the product idea(s) were tested against potential customers. What hypotheses were formed and how they were tested.
+* :topic_link :hw_102_proj_stage1_new
+* :topic_link :hw_102_proj_stage2_new
+* :topic_link :hw_102_proj_stage3_new
 
-* hypotheses, types, how they were tested and what the results were
-* out of the building work, who you talked to and what you learned
-* problem being solved and why it is super important to solve it
-* discussion of value proposition, how it was tested and what conclusions there are
-
-:slide_title Business Case Paper
-
-This paper is about the business side. It will look at competitors, pricing, business model and overall financial plan.
-
-* description of customers and/or market segments
-* other products that compete directly or could be viewed as alternatives
-* pricing options and approaches
-* financial model including spreadsheet and graphs
-
-:slide_title Offering Description Paper
-
-This paper is about the actual product or service.
-
-* Candidate product ideas that made it to your final round of discussion (i.e. no more than 3)
-* What does the product do
-* MVPs that were develoed or will be developed
-* Screenshots or other visuals of user experience
-* Key Features and how they address the value proposition
-
+At each stage, each student will submit the current draft of their paper up to that point. You will receive feedback and a grade for each one. The draft grade will be considered only as participation.
 
 

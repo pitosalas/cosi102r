@@ -1,10 +1,10 @@
-Crash log created at 2024-08-14 11:35:12 -0400
+Crash log created at 2024-08-16 12:28:41 -0400
 
 ===== MESSAGE:
 
-RuntimeError: 'hw_102_proj_stage1_1': invalid reference in section "topics"
+RuntimeError: '102_final_exec_summary': invalid reference in section "topics"
 
-/Users/pitosalas/.rbenv/versions/3.3.1/lib/ruby/gems/3.3.0/gems/coursegen-0.9.25/lib/coursegen/course/data/section.rb:22:in `find_by_short_name': 'hw_102_proj_stage1_1': invalid reference in section "topics" (RuntimeError)
+/Users/pitosalas/.rbenv/versions/3.3.1/lib/ruby/gems/3.3.0/gems/coursegen-0.9.25/lib/coursegen/course/data/section.rb:22:in `find_by_short_name': '102_final_exec_summary': invalid reference in section "topics" (RuntimeError)
 	from /Users/pitosalas/.rbenv/versions/3.3.1/lib/ruby/gems/3.3.0/gems/coursegen-0.9.25/lib/coursegen/course/data/toc.rb:52:in `lookup_citem'
 	from /Users/pitosalas/.rbenv/versions/3.3.1/lib/ruby/gems/3.3.0/gems/coursegen-0.9.25/lib/coursegen/course/helpers/content_helpers.rb:30:in `lookup_nitem'
 	from /Users/pitosalas/.rbenv/versions/3.3.1/lib/ruby/gems/3.3.0/gems/coursegen-0.9.25/lib/coursegen/course/helpers/navigation_helpers.rb:52:in `link_to_section'
