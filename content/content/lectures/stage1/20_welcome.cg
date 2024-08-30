@@ -4,14 +4,12 @@ desc: Introductions, how the course will run, logistics
 slides: true
 category: Product Management
 ---
-
 :h2 About the course
 
 * What is entrepreneurship anyway?
 * I sometimes describe it as:
     * "What a computer scientist needs to know to be a Chief Technology Officer"
     * "The biggest pitfall among computer scientists, hackers, and software engineers, is to start building a product before they have a clue if anyone actually wants it."
-* A little about my own path (see :topic_link :pitofaq)
 
 :slide_title Get to know each other -- ask your neighbor
 
@@ -24,7 +22,7 @@ category: Product Management
 
 * We will learn entrepreneurship processes and tools from "The Lean Startup"
 * We will hear from guest speakers 
-* Working in teams of 3 we will invent a product and validate in many ways
+* Working in teams we will invent a product and validate in many ways
 * We will analyze the business opportunity and produce and present a business plan
 
 :slide_title To help us form teams
@@ -32,6 +30,19 @@ category: Product Management
 * Tell us about yourselves
 * Do this [Simple Questionnaire](https://forms.gle/KYiLVRJQum8JEppw8)
 * How will teams get formed and how will they work?
+
+:slide_title Logistics
+
+* Let's look at this web site itself
+* Let's look at Moodle
+* Let's look at the skills
+* Let's look at the "textbook"
+
+:slide_bigtitle Your responsibilities
+* Bookmark this site. You will use it more than moodle!
+* Review the next class to see what the required readings are
+* I will *not* re-state the contents in the book
+* Attend in person and participate
 
 :topic_include :what_102a_is_about
 
@@ -42,10 +53,5 @@ category: Product Management
 * Next is to learn and understand the processes and tools from the Lean Startup
 * Attending class i smandatory and participation is expected
 * Homework will be due the night before class, by midnight.
-
-:slide_title Basic Logistics
-
-* Tour of the course this course web site
-* Tour of Latte
 
 :lecture_end
