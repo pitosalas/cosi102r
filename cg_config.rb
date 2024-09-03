@@ -75,9 +75,9 @@ HOME_PAGE = "/content/intro/15_syllabus-print.cg"
 # Examples:
 #   %w[HOME /content/index.md]
 #   %w[TOC /content/course_toc.md]
-MENULINKS = [%w[lectures /content/intro/20_coursetoc.md/],
-             %w[latte https://moodle2.brandeis.edu/course/view.php?id=30683],
-             ["previous years", "https://drive.google.com/drive/u/1/folders/1C8VCqgV4VNxObFn4XuA-ql81HhCEn0f2"]].freeze
+MENULINKS = [
+             %w[MOODLE https://moodle.brandeis.edu/course/view.php?id=703],
+             ["PREVIOUS YEARS", "https://drive.google.com/drive/u/1/folders/1C8VCqgV4VNxObFn4XuA-ql81HhCEn0f2"]].freeze
 
 # Helpful_box provides a feedback box on the sidebar.
 #
