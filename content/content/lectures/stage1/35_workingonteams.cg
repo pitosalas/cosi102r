@@ -12,15 +12,23 @@ slides: true
 
 :slide_bigtitle Working On Teams
 
-:callout :small, "share!", "Lets hear from some students who have worked on teams or led teams"
+:topic_include :working_in_teams_key_challenges
+  
+:slide_bigtitle When conflict arises
 
-:topic_include :working_in_teams
+:topic_include :conflict
 
-:h3 Some related topics 
-* :topic_link :working_in_teams_key_challenges
-* :topic_link :conflict
-* :topic_link :meetings
+:slide_bigtitle What is it like to have team meetings?
 
-:topic_include :cosi102_team_assignments
+:topic_include :meetings
+
+:slide_bigtitle The teams
+
+* Review of team creation process
+* All teams have four participants (but there are always exceptions)
+* Because of the domino effects of changes, I will not entertain requests for changes
+* If a student drops or joins late, this will be handled in the way of least disruption
+* **HERE ARE THE TEAMS**!
+
 
 :lecture_end
