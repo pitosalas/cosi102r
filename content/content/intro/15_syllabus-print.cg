@@ -19,9 +19,9 @@ desc: Formatted for Printing
 
 :topic_include :cosi102a_course_welcome
 
-:topic_include :cosi102r_learning_objectives2
-
 :topic_include :general_grading
+
+:topic_include :cosi102r_learning_objectives2
 
 :topic_include :cosi102a_grading
 
