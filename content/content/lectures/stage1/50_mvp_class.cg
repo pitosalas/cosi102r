@@ -9,6 +9,35 @@ https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the?_bhlid=468968
 
 *Reminder: Readings are your responsibility. You will be expected to come to class prepared, having read the material, and ready to participate in the discussion*
 
+:slide_title Logistics
+* Getting grading going. 
+* New team and new Moodle...
+* "Does not meet expectations", "Meets expectations", "Exceeds Expectations"
+  
+**Reading**
+
+* At this point you *You will be expected to come to class prepared, having read the material, and ready to participate in the discussion"*
+* You have read chapters 1-7
+* Who has the book?
+* Who has actually read those chapters (not skim, not while watching youtube)
+* Let's discuss...
+
+:slide_bigtitle Let's discuss
+
+**IMVU Case Study**
+* Context
+  * Messaging is a feature of multiple apps
+  * People develop habits around using one or two apps for messaging
+  * Original concept was to create 3D avatars as an add-on to bridge all those apps
+* What pain point was this supposed to address?
+* What are "network effects"?
+* What happened when IMVU first launched?
+* Discuss why that happened
+
+**Zappos Case Study**
+
+**Dropbox Case Study**
+
 :topic_include :ch6
 :topic_include :ch7
 
@@ -16,7 +45,6 @@ https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the?_bhlid=468968
 
 * Take a look at [projects from previous semesters](http://pitosalas.github.io/brandeisprojects/)
 * Lets look at a few from last year
-* Lets review the stages of the project
 
 :topic_include :mvp_summary
 
