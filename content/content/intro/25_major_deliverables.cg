@@ -11,7 +11,7 @@ slides: true
 * **Deliverables**: Each student authors one of the deliverables. They will all be assessed for consistency, alignment, complementarity. They will be treated as four chapters in one report.
 * **Presentation**: At the end of the term, the team will prepare a presentation including slides, consistent with their documents.
 
-:slide_bigtitle Organization
+:slide_title Organization
 
 * Students will be organized into teams of four. No more and no less. 
 * Starting on week 2 and through the whole semester.
@@ -19,6 +19,14 @@ slides: true
 * Each student will take one of the four deliverables.
 
 :topic_include :final_papers_general_spec
+
+:slide_title The Four Papers
+
+* :topic_link :hw_102_final_cust_disc
+* :topic_link :hw_102_final_biz_case
+* :topic_link :hw_102_final_marketing
+* :topic_link :hw_102_final_offering
+
 
 :slide_title Drafts in Stages
 
