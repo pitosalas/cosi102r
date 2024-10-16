@@ -5,13 +5,21 @@ slides: true
 ---
 :slide_title Logistics
 
-* :topic_link :ch8
+* Quiz prep is next class, and quiz is the class after that
+* Why has there been so little homework? Listen again to expecations on how teams work on the big deliverable.
+* :topic_link :hw_102_proj_stage1_new deliverable is due next class. You are expected to:
+    * Have a product chosen and agreed upon
+    * Have a team member assigned to each of the four papers
+    * Have done some **out of the building** research
+    * Note that I expect teams to be meeting at least 1-2 hours per week to work on the big deliverable.
 
 :slide_bigtitle Intro to Pivots
 
 :topic_include :pivot_intro
 
 :topic_include :pivot_types
+
+* :topic_link :ch8
 
 :topic_include :pivot_measurement
 
