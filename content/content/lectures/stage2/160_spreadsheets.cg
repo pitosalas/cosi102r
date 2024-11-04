@@ -3,7 +3,8 @@ title: Spreadsheet Basics
 desc: The limitless power of spreadsheets 
 slides: true
 ---
-:image :angelo_santinelli
+:slide_title Logistics
+
 
 :slide_title When is a spreadsheet the right tool?
 
@@ -14,20 +15,31 @@ slides: true
 
 :slide_title Skills - explained and demonstrated
 
-* Using excel and google sheets
-* Role of .csv files
-* Basic rows and columns
-* Datatypes and formatting
-* Basic formulas
-* A very advanced form of programming
-* Copy / Paste
-* Absolute and Relative References
-* Using tabs
-* Formatting, freezing
-* Sorting and filtering
-* =vlookup
-* =query
-* Pivot tables
+* Basics
+  * Using excel and google sheets
+  * A very advanced form of programming
+  * Basic rows and columns
+  * Datatypes and formatting
+  * Basic formulas
+  * Huge collection of "functions"
+* Import/Export
+  * Role of .csv files
+  * Lots of data out there
+  * Parsing of columns
+* Intermediate
+  * Copy / Paste
+  * Absolute and Relative References
+  * Ranges
+* Organization
+  * Using tabs
+  * Formatting, freezing
+  * Hiding/Showing
+  * Sorting and filtering
+* More advanced patterns and functions
+  * [=query](https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/)
+  * =index
+  * =vlookup
+  * Pivot tables
 
 
 :lecture_end
