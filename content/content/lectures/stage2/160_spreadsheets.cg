@@ -3,43 +3,53 @@ title: Spreadsheet Basics
 desc: The limitless power of spreadsheets 
 slides: true
 ---
-:slide_title Logistics
+:slide_bigtitle Logistics
 
+* People are taking too much advantage of the free extra three days, and then often even asking for an extension on that.
+* I feel very generous, but that is causing havoc in our grading.
+* It is a large class, afterall
+* So:
 
-:slide_title When is a spreadsheet the right tool?
+:callout :big, "NEW POLICY", "Starting with the Stage 2 Deliverable, work submitted after the due date can never have an exceeds rating"
+
+:topic_include :hw_102_weekly_update
+
+:slide_bigtitle When is a spreadsheet the right tool?
 
 * If you are making multiple calculations at the same time
 * If you are representing tabular information
 * If you are building a database
 * If you are moving columns and rows of data from one application (latte? pandas? excel?) to another
 
-:slide_title Skills - explained and demonstrated
+:slide_title Basics
+* Using excel and google sheets
+* A very advanced form of programming
+* Basic rows and columns
+* Datatypes and formatting
+* Basic formulas
+* Huge collection of "functions"
 
-* Basics
-  * Using excel and google sheets
-  * A very advanced form of programming
-  * Basic rows and columns
-  * Datatypes and formatting
-  * Basic formulas
-  * Huge collection of "functions"
-* Import/Export
-  * Role of .csv files
-  * Lots of data out there
-  * Parsing of columns
-* Intermediate
-  * Copy / Paste
-  * Absolute and Relative References
-  * Ranges
-* Organization
-  * Using tabs
-  * Formatting, freezing
-  * Hiding/Showing
-  * Sorting and filtering
-* More advanced patterns and functions
-  * [=query](https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/)
-  * =index
-  * =vlookup
-  * Pivot tables
+:slide_title Import/Export
+* Role of .csv files
+* Lots of data out there
+* Parsing of columns
+
+:slide_title Intermediate
+* Copy / Paste
+* Absolute and Relative References
+* Ranges
+
+:slide_title Organization
+* Using tabs
+* Formatting, freezing
+* Hiding/Showing
+* Sorting and filtering
+
+:slide_title More advanced patterns and functions
+* [=query](https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/)
+* =index
+* =vlookup
+* Pivot tables
 
 
 :lecture_end
