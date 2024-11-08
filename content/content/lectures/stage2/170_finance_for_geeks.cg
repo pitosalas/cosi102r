@@ -3,6 +3,10 @@ title: Finance for Geeks
 desc: Fundamentals of the financial plan
 slides: true
 ---
+:slide_bigtitle Logistics
+
+* Small change in weekly status report: put  names in
+
 :topic_include :basic_financial_modeling
 
 :topic_include :milestone_based_planning
