@@ -3,12 +3,7 @@ title: Pricing Models
 desc: We get into what a pricing model is and how to think about one
 slides: true
 ---
-:h2 Logistics
-
-<div>
-<img src="http://www.newyorker.com/wp-content/uploads/2015/12/151207_a19651-600.jpg" style="width: 500px;"/>
-<div style="width: 800px; text-align: center; font-size: 120%; font-style: italic;">"The coffee is free, but now we rent the tables."</div>
-</div>
+:slide_title Logistics
 
 :slide_title What makes a "good" pricing model?
 
