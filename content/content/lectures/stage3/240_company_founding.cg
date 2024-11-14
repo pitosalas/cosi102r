@@ -3,11 +3,9 @@ title: Founding a company
 desc: How does a company get founded?
 slides: true
 ---
-:h2 Presentation Run Throughs
+:slide_title Logistics
 
-* Check out work :topic_link :hw_102_presentation_runthrough
-
-:h2 Memory Lane: eRoom Technology - 1995-2002
+:slide_title Memory Lane: eRoom Technology - 1995-2002
 
 * Here's the :topic_link :eroom_story
 * [TV Report about eRoom back in the day](https://vimeo.com/477587256)
