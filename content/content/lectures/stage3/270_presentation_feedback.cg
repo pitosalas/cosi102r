@@ -3,15 +3,5 @@ title: FINAL PRESENTATIONS
 desc: We will go team by team to share Presentations
 slide: true
 ---
-:callout :big, "IMPORTANT", "These are the FINAL presentations!"
+:topic_include :hw_102_final_presentations
 
-* There will NOT BE ANY PRESENTATIONS ON DEC 18
-* See :topic_link :hw_102_final_presentations
-
-As teams give us their pitch, everyone else please pay close attention, take notes, and give friendly and constructive feedback to the team presenting. Here are some questions to consider
-
-* Was the explanation of the product clear and understandable?
-* How was the presentation delivered? Was it clear, simple and understandable?
-* Was the flow of the presentation coherent and logical? Was preparation apparent?
-* How did the presentation come across? Was it interesting, boring, professional?
-* Anything else?
