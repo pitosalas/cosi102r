@@ -76,8 +76,9 @@ HOME_PAGE = "/content/intro/15_syllabus-print.cg"
 #   %w[HOME /content/index.md]
 #   %w[TOC /content/course_toc.md]
 MENULINKS = [
-             %w[MOODLE https://moodle.brandeis.edu/course/view.php?id=703],
-             ["PREVIOUS YEARS", "https://drive.google.com/drive/u/1/folders/1C8VCqgV4VNxObFn4XuA-ql81HhCEn0f2"]].freeze
+  %w[MOODLE https://moodle.brandeis.edu/course/view.php?id=703],
+  ["PREVIOUS YEARS", "https://drive.google.com/drive/u/1/folders/1C8VCqgV4VNxObFn4XuA-ql81HhCEn0f2"], ["BRANDEISPROJECTS", "http://pitosalas.github.io/brandeisprojects/"]
+].freeze
 
 # Helpful_box provides a feedback box on the sidebar.
 #
